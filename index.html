@@ -1,284 +1,150 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>YUANBO PANG - Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        h1, h2, h3, h4 {
-            color: #333;
-        }
-        .basicInfo, .section {
-            margin-bottom: 20px;
-        }
-        .section {
-            border-bottom: 1px solid #ddd;
-            padding-bottom: 10px;
-        }
-        .section:last-child {
-            border: none;
-        }
-        .section-title {
-            font-size: 1.5em;
-            margin-bottom: 10px;
-        }
-        .subsection {
-            margin-bottom: 10px;
-        }
-        .subsection-title {
-            font-weight: bold;
-        }
-        .subsection-date {
-            color: #888;
-            font-style: italic;
-        }
-        .item-list {
-            list-style-type: none;
-            padding: 0;
-        }
-        .item-list li {
-            margin-bottom: 5px;
-        }
-        .contact-info {
-            font-size: 1.1em;
-            margin-bottom: 20px;
-        }
-        .contact-info a {
-            color: #1a0dab;
-            text-decoration: none;
-        }
-        .contact-info a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>YUANBO PANG</h1>
-        <div class="contact-info">
-            <span>Email: <a href="mailto:yuanbopang@gmail.com">yuanbopang@gmail.com</a></span> &middot;
-            <span>Phone: (+1) 408-460-7526</span> &middot;
-            <span>LinkedIn: <a href="https://www.linkedin.com/in/yuanbopang/">YuanboPang</a></span>
-        </div>
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% !Mode:: "TeX:UTF-8"
 
-        <div class="section">
-            <div class="section-title">Educational background</div>
-            <div class="subsection">
-                <div class="subsection-title">De Anza College, Cupertino, CA</div>
-                <div class="subsection-date">2023 -- 2025</div>
-                <div>Associate Degree in Computer Science, expected to graduate in June 2025</div>
-                <div>GPA: 4.0/4.0</div>
-                <div>Relevant Coursework: JAVA, Python, C++, Object Oriented Analysis and Design</div>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">Online Courses through Coursera</div>
-                <div class="subsection-date">Jan 2024 - Present</div>
-                <ul class="item-list">
-                    <li>Linear Algebra for Machine Learning and Data Science (DeepLearning.AI)</li>
-                    <li>Neural Networks and Deep Learning (DeepLearning.AI)</li>
-                    <li>Structing Machine Learning Project (DeepLearning.AI)</li>
-                    <li>Convolutional Nerual Network (DeepLearning.AI)</li>
-                    <li>Sequence Models (DeepLearning.AI)</li>
-                    <li>Supervised Machine Learning: Regression and Classification (DeepLearning.AI, Stanford University)</li>
-                    <li>Python and Pandas for Data Engineering (Duke University)</li>
-                    <li>Programming Fundamentals in Swift (Meta)</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">Online Courses through Edx</div>
-                <div class="subsection-date">Nov 2023 - Present</div>
-                <ul class="item-list">
-                    <li>6.00.2x: Introduction to Computational Thinking and Data Science (MITX)</li>
-                    <li>6.002.1x: Circuits and Electronics 1: Basic Circuit Analysis (MITX)</li>
-                </ul>
-            </div>
-        </div>
+\documentclass{resume}
+\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts
+%\usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
+\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage{cite}
 
-        <div class="section">
-            <div class="section-title">WORK EXPERIENCE</div>
-            <div class="subsection">
-                <div class="subsection-title">Research Intern</div>
-                <div class="subsection-date">IntelliSys Lab, LSU, Baton Rouge, LA | July 2024 - Present</div>
-                <ul class="item-list">
-                    <li>Federated Learning Approach and Distributed Computing</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">Software Engineering Remote Intern</div>
-                <div class="subsection-date">SINGULARITY ROBOTICS PTE. LTD, Singaporean | March 2024 - Present</div>
-                <ul class="item-list">
-                    <li>News Related to Using Cosine Similarity and AI Database Recommendations</li>
-                </ul>
-            </div>
-        </div>
+\begin{document}
 
-        <div class="section">
-            <div class="section-title">ACADEMIC EXPERIENCE</div>
-            <div class="subsection">
-                <div class="subsection-title">Robotic-arm</div>
-                <div class="subsection-date">Engineering Club, Foothill College | April 2024 - Present</div>
-                <div>The UR10 Chess Project aims to explore the possibilities of robotics in replicating human-like decision-making and precision in a controlled environment. This is being accomplished with a Universal Robots UR10, with custom hardware and software, both created by the Engineering Club.</div>
-                <ul class="item-list">
-                    <li>Source Code: <a href="https://github.com/FH-EngineeringClub/UR10_Workspace">GitHub</a></li>
-                    <li>End-to-end chess piece recognition using the Res-50 network.</li>
-                    <li>CImage cutting with deep images from Azure Kinect SDK and end-to-end neural networks.</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">Golden Groceries</div>
-                <div class="subsection-date">Berkeley, CA | April 2024 - Present</div>
-                <div>FastAPI, React, Python, Node.js, Claude, You.com</div>
-                <ul class="item-list">
-                    <li>Source Code: <a href="https://github.com/GoldenGroceries/Project">GitHub</a></li>
-                    <li>Seniors can take pictures of their food to analyze nutrient intake. Provides daily and weekly tracking and shares data with healthcare providers.</li>
-                    <li>FastAPI for API endpoints, analyzing user data with ChatGPT, real-time restaurant searches with You.com.</li>
-                    <li>Successfully ran LLAVA1.5 multimodal model on Intel CPU, achieving GPU-comparable performance.</li>
-                    <li>Integrated You.com for autonomous internet search results.</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">GetResearch</div>
-                <div class="subsection-date">Davis, CA | April 2024</div>
-                <div>FastAPI, React, PostgreSQL, PropelAuth, AWS</div>
-                <ul class="item-list">
-                    <li>Demo: <a href="https://getresearch.tech">GetResearch</a></li>
-                    <li>Source Code: <a href="https://github.com/GetResearch/Project">GitHub</a></li>
-                    <li>Inspired by our experiences as community college students struggling to find research opportunities. Connects students with professors for research collaboration, addressing visibility and accessibility issues.</li>
-                    <li>Real-time updates, dual functionality for students and professors, streamlined application process, enhanced visibility for professors.</li>
-                    <li>Won [MLH - Best DomainHackDavis]</li>
-                    <li>Received high praise from cross-evaluations by numerous undergraduates at the competition site.</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">ClearSight</div>
-                <div class="subsection-date">Berkeley, CA | February 2024</div>
-                <div>Fastapi, React, JavaScript, HTML, MongoDB</div>
-                <ul class="item-list">
-                    <li>Demo: <a href="https://berkelay-hacks.vercel.app">Berkelay Hacks</a></li>
-                    <li>Source Code: <a href="https://github.com/AGDholo/berkelayHacks">GitHub</a></li>
-                    <li>ClearSight leverages the HCB Transparency Mode API to fetch real-time financial data and employs advanced visualization techniques to present this data clearly. The intuitive dashboard features customizable filters for tailored views, ensuring a seamless user experience.</li>
-                    <li>Interactive elements enable users to drill down into specifics, enhancing engagement and understanding of organizational finances. This combination of real-time data, clear visualization, and interactivity makes ClearSight a powerful tool for financial transparency.</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">SlugHug</div>
-                <div class="subsection-date">Santa Cruz, CA | January 2024</div>
-                <div>React, JavaScript, HTML, MongoDB, Auth0, Axure</div>
-                <ul class="item-list">
-                    <li>Demo: <a href="https://slughug.us">SlugHug</a></li>
-                    <li>Source Code: <a href="https://github.com/marcus-leung/SlugHug">GitHub</a></li>
-                    <li>Using React to connect Auth0 to MongoDB. Saving Password in Auth0 and data in MongoDB.</li>
-                    <li>Contributed to the website’s overall design and user flow, which includes bubbly and cute characters, by mastering and applying new skills in Auth0, UI/UX design, graphic design, database management, and React development.</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">AI-Enhanced Classroom Assistant for Interactive Learning</div>
-                <div class="subsection-date">Cupertino, CA | October 2023 - Present</div>
-                <div>Python, Js, Html, C#</div>
-                <ul class="item-list">
-                    <li>Project Webpage: <a href="https://github.com/ITTAAI/ittaai">ITTAI</a></li>
-                    <li>Led an AI technology-driven team project aimed at enhancing student learning efficiency by integrating AI as an on-demand teaching assistant.</li>
-                    <li>Developed and deployed Vosk-powered models for live speech recognition, and integrated the OpenAI API to analyze classroom content, enabling the provision of instantaneous, contextually relevant responses to student inquiries.</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">Gradient Refractive Index Medium for Repairing Optical Fiber</div>
-                <div class="subsection-date">Nanjing, CHN | September 2020 - June 2021</div>
-                <div>Mathematica</div>
-                <ul class="item-list">
-                    <li>Simulate the use of fibers with specific refractive indices to repair broken optical fibers, thereby reducing the cost and difficulty of repairs</li>
-                    <li>Use Mathematica to trace the path of light in optical fibers</li>
-                    <li>Display an image of light ray tracing</li>
-                </ul>
-            </div>
-        </div>
+\pagenumbering{gobble} % suppress displaying page number
 
-        <div class="section">
-            <div class="section-title">EXTRACURRICULAR ACTIVITIES</div>
-            <div class="subsection">
-                <div class="subsection-title">Nanjing Jinling High School</div>
-                <div class="subsection-date">Nanjing, CHN | November 2020 - June 2023</div>
-                <ul class="item-list">
-                    <li>Chair of Publicity and Technology Department at Student Union</li>
-                    <li>Led a team of nearly 50 people to shoot the large-scale graduation documentary ’Zhongshan Road 169’ as the director and director of photography; the released video garnered over 20,000 views.</li>
-                    <li>Organized promotional tasks for school sports meets, food festivals, and other events.</li>
-                    <li>Led a technical team to troubleshoot and adjust school audio and video equipment.</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">Stanford XR Conference: Navigating the Spatial Frontier</div>
-                <div class="subsection-date">Stanford, CA | May 2024</div>
-                <ul class="item-list">
-                    <li>Helping organize the Stanford XR conference 2024 and set up the venue</li>
-                    <li>Assisted participants in setting up the project display area and guided visitors through the exhibits.</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">CIS Teaching Assistant</div>
-                <div class="subsection-date">Cupertino, CA | July 2024 - Present</div>
-                <ul class="item-list">
-                    <li>De Anza College CIS Department Teaching Assistant (CIS 22A, CIS 22B, CIS 22C, CIS 35A)</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">Second Harvest of Silicon Valley</div>
-                <div class="subsection-date">Sunnyvale, CA | April 2024 - Present</div>
-                <ul class="item-list">
-                    <li>Helping to distribute food at the church</li>
-                </ul>
-            </div>
-            <div class="subsection">
-                <div class="subsection-title">Our City Forest</div>
-                <div class="subsection-date">San Jose, CA | March 2024 - Present</div>
-                <ul class="item-list">
-                    <li>In a volunteer event, I led a team to successfully plant a sapling despite rocky challenges, showcasing leadership and collaboration.</li>
-                    <li>This activity highlighted the value of teamwork and community engagement in environmental efforts.</li>
-                </ul>
-            </div>
-        </div>
+\name{YUANBO PANG}
 
-        <div class="section">
-            <div class="section-title">Awards and Honors</div>
-            <ul class="item-list">
-                <li>Phi Theta Kappa Honor Society (June 2024)</li>
-                <li>Sponsor - Hack Foundation, Hack for impact, UCB (Feb 2024)</li>
-                <li>MLH - Best Domain, HackDavis, UCD (April 2024)</li>
-                <li>Health Hack Second Place and Sponsor - Axure, Cruzhacks 2024 (Jan 2024)</li>
-                <li>Best API, De Anza Hacks 2023 (Oct 2023)</li>
-                <li>First Prize, Jiangsu Province of the Chinese National Physics Olympiad (2022)</li>
-                <li>The Most Virtuous High School Student in Jiangsu Province (2023)</li>
-                <li>Silver Medal, American Physics Bowl (Mar 2022)</li>
-                <li>8 points, AIME American National Mathematics Competition</li>
-            </ul>
-        </div>
+\basicInfo{
+    \email{yuanbopang@gmail.com} \textperiodcentered\
+    \phone{(+1) 408-460-7526} \textperiodcentered\
+    \linkedin[YuanboPang]{https://www.linkedin.com/in/yuanbopang/} \textperiodcentered\
+    \github[YuanboPang]{https://github.com/PangYuanbo}
+}
 
-        <div class="section">
-            <div class="section-title">Skills</div>
-            <ul class="item-list">
-                <li>Languages: Chinese (native), English (fluent)</li>
-                <li>Programming Languages: Python, C++, Swift, HTML</li>
-                <li>Professional Skills: Pytorch, Tensorflow, Numpy, Pandas, FastAPI, MongoDB, Auth0</li>
-            </ul>
-        </div>
+\section{\faGraduationCap\ Educational Background}
+\datedsubsection{\textbf{De Anza College}, Cupertino, CA}{2023 -- 2025}
+\datedsubsection{\textbf{Phi Theta Kappa Honor Society Member}}{}
+\datedsubsection{\textbf{Academic Director of Quantum Club} | \textbf{President of Data Club} | \textbf{Vice President of EnvirEcon Club}}{}
+\textit{Associate Degree, Computer Science (expected June 2025)}
+\textbf{GPA: 4.0/4.0}
+\textbf{Relevant Coursework:} Java, Python, C++, Object-Oriented Analysis and Design
 
-        <div class="section">
-            <div class="section-title">Others</div>
-            <ul class="item-list">
-                <li>GitHub: <a href="https://github.com/PangYuanbo">PangYuanbo</a></li>
-            </ul>
-        </div>
-    </div>
-</body>
-</html>
+\datedsubsection{\textbf{Online Courses}}{}
+\datedsubsection{\textbf{Deep Learning (5-Course Specialization) offered by DeepLearning.AI}}{Mar - June 2024}
+\datedsubsection{\textit{Linear Algebra for Machine Learning and Data Science} (DeepLearning.AI)}{Jan 2024}
+\datedsubsection{\textit{6.00.2x: Introduction to Computational Thinking and Data Science} (MITx)}{Nov - Dec 2023}
+
+\section{\faBriefcase\ Work Experience}
+\datedsubsection{\textbf{Research Intern}, Stevens Institute of Technology (Prof. Hao Wang)}{Hoboken, NJ | July 2024 - Present}
+\begin{itemize}
+    \item Conducting graduate-level research focused on protecting local data, enhancing personalized learning, and optimizing security protocols.
+    \item Working on accelerating AI research in personalized federated learning and data security through differential privacy techniques.
+\end{itemize}
+
+\datedsubsection{\textbf{Student Ambassador}, \textit{Fetch.AI Innovation Lab}}{Cambridge, UK / San Francisco, CA | October 2024 - Present}
+\begin{itemize}
+    \item Served as a Fetch.ai mentor and judge at CalHack 11.0 (UCB Hackathon) and SF Hacks.
+    \item Assisted over 20 teams in resolving technical issues, offering guidance on both front-end and back-end development.
+    \item Led a large-scale workshop for hundreds of participants, helping to co-organize the event and motivate participants to achieve their project goals.
+\end{itemize}
+
+\section{\faTasks\ Academic Experience}
+
+\datedsubsection{\textbf{Stud.ai} | \textit{FastAPI, React, Python, Fetch.ai}}{Cambridge, MA | Sep 2024}
+\textbf{Won [Smartest AI Agent]} \textit{HackMIT 2024}
+\begin{itemize}
+    \item Streamlined assignment completion by generating step-by-step timelines based on descriptions and rubrics.
+    \item Automatically scheduled suggested work periods in students' available calendar slots.
+\end{itemize}
+
+\datedsubsection{\textbf{Robotic-Arm Project}, Engineering Club, Foothill College}{Apr - Jul 2024}
+\textit{Team Project}
+\begin{itemize}
+    \item Developed an end-to-end chess piece recognition and control system using a UR10 robot with custom hardware and software.
+    \item Implemented ResNet-50 for piece detection and utilized Azure Kinect SDK for image processing.
+\end{itemize}
+
+\datedsubsection{\textbf{Golden Groceries} | \textit{FastAPI, React, Python, Node.js, Claude, You.com}}{Berkeley, CA | Jun 2024}
+\textit{Team Project | Team Leader}
+\begin{itemize}
+    \item Created a system for seniors to track nutrient intake from food photos, with data shared securely with healthcare providers.
+    \item Integrated ChatGPT for data analysis and used You.com for real-time restaurant searches.
+\end{itemize}
+
+\datedsubsection{\textbf{GetResearch} | \textit{FastAPI, React, PostgreSQL, PropelAuth, AWS}}{Davis, CA | Apr 2024}
+\textit{Team Project | Team Leader}
+\textbf{Won [MLH - Best DomainHackDavis]} \textit{HackDavis 2024}
+\begin{itemize}
+    \item Led development of a platform connecting students and professors for research collaboration, improving visibility and accessibility.
+    \item Implemented FastAPI, React, PostgreSQL, PropelAuth, and AWS back-end services.
+\end{itemize}
+
+\datedsubsection{\textbf{ClearSight} | \textit{FastAPI, React, JavaScript, HTML, MongoDB}}{Berkeley, CA | Feb 2024}
+\textit{Team Project | Team Leader}
+\textbf{Won [Hack for Financial Transparency]} \textit{Hack for Impact 2024}
+\begin{itemize}
+    \item Developed a financial transparency tool using the HCB Transparency Mode API for real-time data.
+    \item Created an intuitive, customizable dashboard with advanced visualization and interactive features.
+\end{itemize}
+
+\datedsubsection{\textbf{SlugHug} | \textit{React, JavaScript, HTML, MongoDB, Auth0, Axure}}{Santa Cruz, CA | Jan 2024}
+\textit{Team Project}
+\textbf{Won [Health Hack Second Place] and [Sponsor - Axure]}
+\begin{itemize}
+    \item Integrated Auth0 with MongoDB using React, ensuring secure data storage.
+    \item Contributed to UI/UX design with a playful, character-based theme.
+\end{itemize}
+
+\datedsubsection{\textbf{AI-Enhanced Classroom Assistant for Interactive Learning} | \textit{Python, JS, HTML, C\#}}{Cupertino, CA | Oct 2023 - Present}
+\textit{Team Project | Team Leader}
+\textbf{Won [Best API]} \textit{De Anza Hack 2.0}
+\begin{itemize}
+    \item Led a project integrating AI as a teaching assistant to improve student learning efficiency.
+    \item Implemented Vosk-powered live speech recognition and integrated OpenAI API for real-time content analysis.
+\end{itemize}
+
+\datedsubsection{\textbf{Gradient Refractive Index Medium for Repairing Optical Fiber} | \textit{Mathematica}}{Nanjing, CHN | Sep 2020 - Jun 2021}
+\textit{Personal Project}
+\begin{itemize}
+    \item Simulated the use of fibers with specific refractive indices to repair damaged optical fibers.
+    \item Utilized Mathematica for ray tracing and visualizing light paths.
+\end{itemize}
+
+\section{\faUsers\ Extracurricular Activities}
+
+\datedsubsection{\textbf{Stanford XR Conference 2024: Navigating the Spatial Frontier}}{Stanford, CA | May 2024}
+\begin{itemize}
+    \item Assisted with venue setup, project displays, and guided visitors.
+\end{itemize}
+
+\datedsubsection{\textbf{CIS Teaching Assistant}, De Anza College}{Cupertino, CA | July 2024 - Present}
+\begin{itemize}
+    \item Provided teaching assistance in CIS 22A, CIS 22B, and CIS 35A courses.
+\end{itemize}
+
+\datedsubsection{\textbf{Nanjing Jinling High School}}{Nanjing, CHN | Nov 2020 - Jun 2023}
+\begin{itemize}
+    \item Served as Chair of the Publicity and Technology Department in the Student Union.
+    \item Directed the graduation documentary \href{https://www.bilibili.com/video/BV1Jt4y1a7z1/}{\textit{Zhongshan Road 169}} with over 20,000 views.
+    \item Organized promotional tasks for school events and managed audio/video equipment.
+\end{itemize}
+
+\section{\faHeartO\ Awards and Honors}
+\datedline{\textit{Smartest AI Agent}, HackMIT (MIT)}{Sep 2024}
+\datedline{\textit{Sponsor - Hack Foundation}, Hack for Impact (UCB)}{Feb 2024}
+\datedline{\textit{MLH - Best Domain}, HackDavis (UCD)}{Apr 2024}
+\datedline{\textit{Health Hack Second Place and Sponsor - Axure}, CruzHacks}{Jan 2024}
+\datedline{\textit{Best API}, De Anza Hacks}{Oct 2023}
+\datedline{\textit{First Prize}, Jiangsu Province Chinese National Physics Olympiad}{2022}
+\datedline{\textit{The Most Virtuous High School Student in Jiangsu Province}}{2023}
+\datedline{\textit{Silver Medal}, American Physics Bowl}{Mar 2022}
+\datedline{\textit{AIME Score: 8 points}, American Invitational Mathematics Examination}{}
+
+\section{\faCogs\ Skills}
+\begin{itemize}[parsep=0.5ex]
+  \item Languages: Chinese (native), English (fluent)
+  \item Programming Languages: Python, C++, Java, Swift, HTML
+  \item Professional Skills: PyTorch, TensorFlow, NumPy, Pandas, FastAPI, MongoDB, Auth0
+\end{itemize}
+
+\end{document}
