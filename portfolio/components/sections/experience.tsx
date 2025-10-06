@@ -9,6 +9,22 @@ import { motion } from "framer-motion";
 export default function Experience() {
   const experiences = [
     {
+      title: "Software Engineering Intern - AI Platform",
+      award: null,
+      location: "Geopogo",
+      date: "Fall 2025",
+      highlights: [
+        "Developed AI-powered rendering platform using Google Gemini API for architectural visualization",
+        "Built full-stack image and video generation system with React/TypeScript frontend and FastAPI backend",
+        "Integrated RunwayML SDK for text-to-video generation with real-time status polling",
+        "Implemented user authentication with Firebase and credit-based subscription system",
+        "Designed responsive chat interface with drag-and-drop image upload and real-time preview",
+        "Deployed production application on Vercel with automated CI/CD pipeline",
+      ],
+      tags: ["React", "TypeScript", "Gemini API", "RunwayML", "Firebase", "FastAPI", "Vercel"],
+      demoUrl: "https://geopogo.com/AI/geopogoAIPage",
+    },
+    {
       title: "AI-Powered Mario Level Generator",
       award: "Modal Sponsor Prize - HackMIT 2025",
       location: "Cambridge, MA",
