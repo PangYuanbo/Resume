@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import { Github, Linkedin, Mail, ArrowDown } from "lucide-react";
+import { Github, Linkedin, Mail, ArrowDown, FileText } from "lucide-react";
 import { motion } from "framer-motion";
 
 export default function Hero() {
@@ -68,6 +68,21 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.6 }}
             className="flex flex-wrap justify-center gap-4 mb-12"
           >
+            <Button
+              size="lg"
+              variant="default"
+              className="group bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700"
+              asChild
+            >
+              <a
+                href="/Yuanbo_Pang_Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FileText className="mr-2 h-5 w-5 group-hover:scale-110 transition-transform" />
+                View Resume
+              </a>
+            </Button>
             <Button
               size="lg"
               variant="outline"
