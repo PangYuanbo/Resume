@@ -18,19 +18,19 @@ interface GitHubRepo {
   topics: string[];
 }
 
+// Featured repositories to display
+const featuredRepos = [
+  "mabe_mouse_behavior",
+  "LMTT",
+  "Fed_ADP",
+  "MABe",
+  "HACK",
+  "Error",
+];
+
 export default function Projects() {
   const [repos, setRepos] = useState<GitHubRepo[]>([]);
   const [loading, setLoading] = useState(true);
-
-  // Featured repositories to display
-  const featuredRepos = [
-    "mabe_mouse_behavior",
-    "LMTT",
-    "Fed_ADP",
-    "MABe",
-    "HACK",
-    "Error",
-  ];
 
   useEffect(() => {
     const fetchRepos = async () => {
