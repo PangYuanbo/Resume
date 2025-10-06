@@ -1,7 +1,7 @@
 import Navbar from "@/components/navbar";
 import Hero from "@/components/sections/hero";
 import About from "@/components/sections/about";
-import Projects from "@/components/sections/projects";
+// import Projects from "@/components/sections/projects";
 import Experience from "@/components/sections/experience";
 import Skills from "@/components/sections/skills";
 import Contact from "@/components/sections/contact";
@@ -13,7 +13,7 @@ export default function Home() {
       <main className="overflow-x-hidden">
         <Hero />
         <About />
-        <Projects />
+        {/* <Projects /> */}
         <Experience />
         <Skills />
         <Contact />
