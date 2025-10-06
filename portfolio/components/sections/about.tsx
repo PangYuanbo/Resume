@@ -1,7 +1,8 @@
 "use client";
 
 import { Card, CardContent } from "@/components/ui/card";
-import { GraduationCap, Briefcase, Award } from "lucide-react";
+import { Badge } from "@/components/ui/badge";
+import { GraduationCap, Briefcase, Award, BookOpen } from "lucide-react";
 import { motion } from "framer-motion";
 
 export default function About() {
@@ -21,6 +22,14 @@ export default function About() {
       title: "Achievements",
       description: "HackMIT Winner • 5+ Hackathon Awards",
     },
+  ];
+
+  const coursework = [
+    { code: "CS 61A", name: "Structure and Interpretation of Computer Programs" },
+    { code: "CS 61B", name: "Data Structures" },
+    { code: "CS 61C", name: "Machine Structures" },
+    { code: "EECS 16A", name: "Designing Information Devices and Systems I" },
+    { code: "CS 70", name: "Discrete Mathematics and Probability Theory" },
   ];
 
   return (
@@ -96,6 +105,43 @@ export default function About() {
                   hackathons, or open-source contributions, I strive to create
                   solutions that matter.
                 </p>
+              </div>
+            </CardContent>
+          </Card>
+        </motion.div>
+
+        {/* Coursework Section */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5, delay: 0.4 }}
+          viewport={{ once: true }}
+          className="mt-8"
+        >
+          <Card>
+            <CardContent className="p-8">
+              <div className="flex items-center gap-3 mb-6">
+                <div className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-primary/10">
+                  <BookOpen className="h-5 w-5 text-primary" />
+                </div>
+                <h3 className="text-2xl font-bold">Relevant Coursework</h3>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {coursework.map((course, index) => (
+                  <motion.div
+                    key={course.code}
+                    initial={{ opacity: 0, x: -20 }}
+                    whileInView={{ opacity: 1, x: 0 }}
+                    transition={{ duration: 0.3, delay: index * 0.05 }}
+                    viewport={{ once: true }}
+                    className="flex items-start gap-3 p-3 rounded-lg hover:bg-secondary/50 transition-colors"
+                  >
+                    <Badge variant="outline" className="shrink-0 mt-1">
+                      {course.code}
+                    </Badge>
+                    <p className="text-muted-foreground">{course.name}</p>
+                  </motion.div>
+                ))}
               </div>
             </CardContent>
           </Card>
