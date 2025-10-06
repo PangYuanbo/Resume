@@ -13,8 +13,8 @@ export default function Hero() {
     <section className="min-h-screen flex items-center justify-center relative overflow-hidden">
       {/* Animated Background */}
       <div className="absolute inset-0 -z-10">
-        <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-white to-purple-50 dark:from-gray-900 dark:via-gray-900 dark:to-gray-800" />
-        <div className="absolute inset-0 bg-grid-gray-900/[0.02] dark:bg-grid-white/[0.02]" />
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-white to-purple-50 dark:from-gray-950 dark:via-gray-900 dark:to-blue-950/30" />
+        <div className="absolute inset-0 bg-grid-gray-900/[0.02] dark:bg-grid-white/[0.03]" />
       </div>
 
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-20">
@@ -26,7 +26,7 @@ export default function Hero() {
             transition={{ duration: 0.5 }}
           >
             <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold mb-6">
-              <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-blue-600 bg-clip-text text-transparent">
+              <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-blue-600 dark:from-blue-400 dark:via-purple-400 dark:to-blue-400 bg-clip-text text-transparent">
                 Yuanbo Pang
               </span>
             </h1>
@@ -71,7 +71,7 @@ export default function Hero() {
             <Button
               size="lg"
               variant="default"
-              className="group bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700"
+              className="group bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 dark:from-blue-500 dark:to-purple-500 dark:hover:from-blue-600 dark:hover:to-purple-600 dark:shadow-lg dark:shadow-blue-500/20"
               asChild
             >
               <a
@@ -86,7 +86,7 @@ export default function Hero() {
             <Button
               size="lg"
               variant="outline"
-              className="group"
+              className="group dark:border-white/20 dark:hover:border-white/30 dark:hover:bg-white/5"
               asChild
             >
               <a
@@ -101,7 +101,7 @@ export default function Hero() {
             <Button
               size="lg"
               variant="outline"
-              className="group"
+              className="group dark:border-white/20 dark:hover:border-white/30 dark:hover:bg-white/5"
               asChild
             >
               <a
@@ -116,7 +116,7 @@ export default function Hero() {
             <Button
               size="lg"
               variant="outline"
-              className="group"
+              className="group dark:border-white/20 dark:hover:border-white/30 dark:hover:bg-white/5"
               asChild
             >
               <a href="mailto:yuanbopang@gmail.com">

@@ -65,7 +65,7 @@ export default function Contact() {
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 viewport={{ once: true }}
               >
-                <Card className="h-full hover:shadow-lg transition-all group">
+                <Card className="h-full hover:shadow-lg dark:hover:shadow-white/5 transition-all duration-300 group dark:border-white/10 dark:hover:border-white/20">
                   <CardContent className="p-6">
                     <a
                       href={method.href}

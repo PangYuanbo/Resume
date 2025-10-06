@@ -166,7 +166,7 @@ export default function Experience() {
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 viewport={{ once: true }}
               >
-                <Card className="hover:shadow-lg transition-shadow">
+                <Card className="hover:shadow-lg dark:hover:shadow-white/5 transition-all duration-300 dark:border-white/10 dark:hover:border-white/20">
                   <CardContent className="p-6">
                     <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4 mb-4">
                       <div className="flex-1">

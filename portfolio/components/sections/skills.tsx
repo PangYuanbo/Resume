@@ -92,11 +92,11 @@ export default function Skills() {
               transition={{ duration: 0.5, delay: index * 0.1 }}
               viewport={{ once: true }}
             >
-              <Card className="h-full hover:shadow-lg transition-shadow">
+              <Card className="h-full hover:shadow-lg dark:hover:shadow-white/5 transition-all duration-300 dark:border-white/10 dark:hover:border-white/20">
                 <CardContent className="p-6">
                   <div className="flex items-center gap-3 mb-4">
                     <div
-                      className={`inline-flex items-center justify-center w-10 h-10 rounded-lg bg-primary/10 ${category.color}`}
+                      className={`inline-flex items-center justify-center w-10 h-10 rounded-lg bg-primary/10 dark:bg-opacity-20 ${category.color}`}
                     >
                       <category.icon className="h-5 w-5" />
                     </div>
@@ -104,7 +104,7 @@ export default function Skills() {
                   </div>
                   <div className="flex flex-wrap gap-2">
                     {category.skills.map((skill) => (
-                      <Badge key={skill} variant="secondary" className="text-sm">
+                      <Badge key={skill} variant="secondary" className="text-sm dark:bg-white/10 dark:hover:bg-white/15">
                         {skill}
                       </Badge>
                     ))}
@@ -122,7 +122,7 @@ export default function Skills() {
           transition={{ duration: 0.5, delay: 0.4 }}
           viewport={{ once: true }}
         >
-          <Card>
+          <Card className="dark:border-white/10">
             <CardContent className="p-6">
               <h3 className="text-xl font-semibold mb-4 text-center">
                 Areas of Expertise
@@ -138,7 +138,7 @@ export default function Skills() {
                   >
                     <Badge
                       variant="outline"
-                      className="text-base py-2 px-4 hover:bg-primary hover:text-primary-foreground transition-colors cursor-default"
+                      className="text-base py-2 px-4 hover:bg-primary hover:text-primary-foreground dark:border-white/20 dark:hover:bg-blue-500 dark:hover:border-blue-500 transition-colors cursor-default"
                     >
                       {item}
                     </Badge>

@@ -59,10 +59,10 @@ export default function About() {
               transition={{ duration: 0.5, delay: index * 0.1 }}
               viewport={{ once: true }}
             >
-              <Card className="h-full hover:shadow-lg transition-shadow">
+              <Card className="h-full hover:shadow-lg dark:hover:shadow-white/5 transition-all duration-300 dark:border-white/10 dark:hover:border-white/20">
                 <CardContent className="p-6 text-center">
-                  <div className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-primary/10 mb-4">
-                    <item.icon className="h-6 w-6 text-primary" />
+                  <div className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-primary/10 dark:bg-blue-500/10 mb-4">
+                    <item.icon className="h-6 w-6 text-primary dark:text-blue-400" />
                   </div>
                   <h3 className="text-xl font-semibold mb-2">{item.title}</h3>
                   <p className="text-muted-foreground">{item.description}</p>
@@ -78,7 +78,7 @@ export default function About() {
           transition={{ duration: 0.5, delay: 0.3 }}
           viewport={{ once: true }}
         >
-          <Card>
+          <Card className="dark:border-white/10">
             <CardContent className="p-8">
               <div className="prose prose-gray dark:prose-invert max-w-none">
                 <p className="text-lg leading-relaxed">
@@ -118,11 +118,11 @@ export default function About() {
           viewport={{ once: true }}
           className="mt-8"
         >
-          <Card>
+          <Card className="dark:border-white/10">
             <CardContent className="p-8">
               <div className="flex items-center gap-3 mb-6">
-                <div className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-primary/10">
-                  <BookOpen className="h-5 w-5 text-primary" />
+                <div className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-primary/10 dark:bg-blue-500/10">
+                  <BookOpen className="h-5 w-5 text-primary dark:text-blue-400" />
                 </div>
                 <h3 className="text-2xl font-bold">Relevant Coursework</h3>
               </div>
@@ -134,9 +134,9 @@ export default function About() {
                     whileInView={{ opacity: 1, x: 0 }}
                     transition={{ duration: 0.3, delay: index * 0.05 }}
                     viewport={{ once: true }}
-                    className="flex items-start gap-3 p-3 rounded-lg hover:bg-secondary/50 transition-colors"
+                    className="flex items-start gap-3 p-3 rounded-lg hover:bg-secondary/50 dark:hover:bg-white/5 transition-colors"
                   >
-                    <Badge variant="outline" className="shrink-0 mt-1">
+                    <Badge variant="outline" className="shrink-0 mt-1 dark:border-white/20 dark:text-blue-400">
                       {course.code}
                     </Badge>
                     <p className="text-muted-foreground">{course.name}</p>

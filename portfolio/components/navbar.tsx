@@ -31,7 +31,7 @@ export default function Navbar() {
     <nav
       className={`fixed top-0 w-full z-50 transition-all duration-300 ${
         isScrolled
-          ? "bg-background/80 backdrop-blur-lg border-b border-border"
+          ? "bg-background/95 backdrop-blur-xl border-b border-border shadow-sm dark:shadow-white/5"
           : "bg-transparent"
       }`}
     >
@@ -40,7 +40,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link
             href="#"
-            className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent"
+            className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent"
           >
             YP
           </Link>
@@ -78,13 +78,13 @@ export default function Navbar() {
 
         {/* Mobile Menu */}
         {isMobileMenuOpen && (
-          <div className="md:hidden pb-4">
+          <div className="md:hidden pb-4 border-t border-border dark:border-white/10 mt-2 pt-4">
             <div className="flex flex-col space-y-3">
               {navItems.map((item) => (
                 <Link
                   key={item.name}
                   href={item.href}
-                  className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors px-2 py-1"
+                  className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors px-2 py-1 rounded-md dark:hover:bg-white/5"
                   onClick={() => setIsMobileMenuOpen(false)}
                 >
                   {item.name}
