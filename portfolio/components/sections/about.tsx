@@ -30,6 +30,7 @@ export default function About() {
     { code: "CS 61C", name: "Machine Structures" },
     { code: "EECS 16A", name: "Designing Information Devices and Systems I" },
     { code: "CS 70", name: "Discrete Mathematics and Probability Theory" },
+    { code: "CS 229", name: "Machine Learning" },
   ];
 
   return (

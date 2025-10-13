@@ -50,7 +50,15 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.4 }}
           >
             <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              Research Intern at Stevens Institute of Technology, specializing in{" "}
+              Research Assistant at UC Berkeley, working on{" "}
+              <span className="text-foreground font-semibold">
+                LLM Agent Evaluation
+              </span>{" "}
+              and{" "}
+              <span className="text-foreground font-semibold">
+                Procedural Task Synthesis
+              </span>
+              . Previously Research Intern at Stevens Institute of Technology, specializing in{" "}
               <span className="text-foreground font-semibold">
                 Federated Learning
               </span>{" "}
