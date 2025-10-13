@@ -9,6 +9,17 @@ import { motion } from "framer-motion";
 export default function Experience() {
   const experiences = [
     {
+      title: "Research Assistant",
+      award: null,
+      location: "University of California, Berkeley",
+      date: "Oct 2025 - Present",
+      highlights: [
+        "Developing PrismLab, a procedural task synthesis framework for evaluating LLM agent generalization capabilities across tool use, planning complexity, and environmental robustness dimensions",
+        "Designed modular three-layer architecture enabling controllable task generation and implemented Docker-based evaluation environments with MCP integration and process-level rewards for systematic analysis of agent training methods",
+      ],
+      tags: ["LLM", "AI Agents", "Docker", "MCP", "Python", "Research"],
+    },
+    {
       title: "Software Engineering Intern - AI Platform",
       award: null,
       location: "Geopogo",
