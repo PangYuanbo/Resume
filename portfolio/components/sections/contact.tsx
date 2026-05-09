@@ -10,8 +10,8 @@ export default function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "yuanbopang@gmail.com",
-      href: "mailto:yuanbopang@gmail.com",
+      value: "yuanbopang@berkeley.edu",
+      href: "mailto:yuanbopang@berkeley.edu",
       color: "text-blue-500",
     },
     {
@@ -112,13 +112,13 @@ export default function Contact() {
                   Let&apos;s Build Something Amazing
                 </h3>
                 <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
-                  Whether you&apos;re looking for a research collaborator, a
-                  full-stack developer, or someone passionate about AI and
-                  privacy-preserving technologies, I&apos;d love to hear from
-                  you.
+                  Whether you&apos;re working on AI agent evaluation,
+                  infrastructure for the agent ecosystem, or a research
+                  collaboration in privacy-preserving ML, I&apos;d love to hear
+                  from you.
                 </p>
                 <Button size="lg" asChild>
-                  <a href="mailto:yuanbopang@gmail.com">
+                  <a href="mailto:yuanbopang@berkeley.edu">
                     <Mail className="mr-2 h-5 w-5" />
                     Send Me an Email
                   </a>

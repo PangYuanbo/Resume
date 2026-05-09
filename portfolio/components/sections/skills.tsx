@@ -2,7 +2,7 @@
 
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Code2, Database, Cloud, Cpu } from "lucide-react";
+import { Code2, Database, Cloud, Cpu, Bot } from "lucide-react";
 import { motion } from "framer-motion";
 
 export default function Skills() {
@@ -10,7 +10,7 @@ export default function Skills() {
     {
       icon: Code2,
       title: "Programming Languages",
-      skills: ["Python", "C++", "Java", "TypeScript", "Swift", "JavaScript"],
+      skills: ["Python", "TypeScript", "JavaScript", "C++", "Java", "Rust"],
       color: "text-blue-500",
     },
     {
@@ -21,48 +21,55 @@ export default function Skills() {
         "TensorFlow",
         "scikit-learn",
         "OpenAI API",
+        "Anthropic API",
         "Computer Vision",
-        "NLP",
       ],
       color: "text-purple-500",
     },
     {
+      icon: Bot,
+      title: "AI Coding Agents",
+      skills: ["Claude Code", "Codex CLI", "Cursor", "Gemini CLI", "GitHub Copilot"],
+      color: "text-pink-500",
+    },
+    {
       icon: Database,
-      title: "Backend & Databases",
+      title: "Backend & Data",
       skills: [
         "FastAPI",
         "Node.js",
+        "Hono",
+        "Neon Postgres",
         "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "GraphQL",
+        "Firebase",
       ],
       color: "text-green-500",
     },
     {
       icon: Cloud,
-      title: "Frontend & Cloud",
+      title: "Frontend & Infrastructure",
       skills: [
         "React",
         "Next.js",
         "Tailwind CSS",
-        "AWS",
-        "Docker",
+        "Cloudflare Workers",
         "Vercel",
+        "Railway",
+        "Docker",
+        "Modal",
       ],
       color: "text-orange-500",
     },
   ];
 
   const expertise = [
+    "AI Agent Evaluation",
+    "Agent Infrastructure",
+    "LLM Applications",
     "Federated Learning",
     "Differential Privacy",
-    "Deep Learning",
-    "Data Science",
     "Full-Stack Development",
     "System Design",
-    "API Development",
-    "Cloud Architecture",
   ];
 
   return (
@@ -75,10 +82,10 @@ export default function Skills() {
           viewport={{ once: true }}
         >
           <h2 className="text-3xl sm:text-4xl font-bold text-center mb-4">
-            Skills & Technologies
+            Skills &amp; Tools
           </h2>
           <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-            A comprehensive toolkit for building intelligent systems
+            The toolkit I use to research, evaluate, and ship AI agent systems.
           </p>
         </motion.div>
 
@@ -104,7 +111,11 @@ export default function Skills() {
                   </div>
                   <div className="flex flex-wrap gap-2">
                     {category.skills.map((skill) => (
-                      <Badge key={skill} variant="secondary" className="text-sm dark:bg-white/10 dark:hover:bg-white/15">
+                      <Badge
+                        key={skill}
+                        variant="secondary"
+                        className="text-sm dark:bg-white/10 dark:hover:bg-white/15"
+                      >
                         {skill}
                       </Badge>
                     ))}
@@ -125,7 +136,7 @@ export default function Skills() {
           <Card className="dark:border-white/10">
             <CardContent className="p-6">
               <h3 className="text-xl font-semibold mb-4 text-center">
-                Areas of Expertise
+                Areas of Focus
               </h3>
               <div className="flex flex-wrap justify-center gap-3">
                 {expertise.map((item, index) => (
@@ -147,20 +158,6 @@ export default function Skills() {
               </div>
             </CardContent>
           </Card>
-        </motion.div>
-
-        {/* Additional Info */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, delay: 0.6 }}
-          viewport={{ once: true }}
-          className="mt-8 text-center"
-        >
-          <p className="text-muted-foreground">
-            Continuously learning and adapting to new technologies and research
-            methodologies
-          </p>
         </motion.div>
       </div>
     </section>

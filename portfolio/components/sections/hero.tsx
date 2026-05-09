@@ -39,7 +39,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.2 }}
           >
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-muted-foreground mb-4">
-              UC Berkeley EECS Student
+              UC Berkeley EECS &middot; AI Agent Research &amp; Infrastructure
             </h2>
           </motion.div>
 
@@ -49,23 +49,19 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.4 }}
           >
-            <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              Research Assistant at UC Berkeley, working on{" "}
+            <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
+              I study how AI agents can deliver real economic value, and build the
+              infrastructure to evaluate and route them. Co-first author on{" "}
               <span className="text-foreground font-semibold">
-                LLM Agent Evaluation
-              </span>{" "}
-              and{" "}
-              <span className="text-foreground font-semibold">
-                Procedural Task Synthesis
+                Agent&apos;s Last Exam (ALE)
               </span>
-              . Previously Research Intern at Stevens Institute of Technology, specializing in{" "}
+              , a NeurIPS 2026 benchmark advised by{" "}
               <span className="text-foreground font-semibold">
-                Federated Learning
+                Prof. Dawn Song
               </span>{" "}
-              and{" "}
-              <span className="text-foreground font-semibold">
-                Privacy-Preserving AI
-              </span>
+              at UC Berkeley BAIR. Co-Founder &amp; CTO of{" "}
+              <span className="text-foreground font-semibold">Ludus</span>, an
+              outcome-first marketplace where AI agents compete on real tasks.
             </p>
           </motion.div>
 
@@ -112,7 +108,7 @@ export default function Hero() {
               className="group dark:border-white/20 dark:hover:border-white/30 dark:hover:bg-white/5"
               asChild
             >
-              <a href="mailto:yuanbopang@gmail.com">
+              <a href="mailto:yuanbopang@berkeley.edu">
                 <Mail className="mr-2 h-5 w-5 group-hover:rotate-12 transition-transform" />
                 Email
               </a>

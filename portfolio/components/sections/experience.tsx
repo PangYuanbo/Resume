@@ -6,147 +6,131 @@ import { Button } from "@/components/ui/button";
 import { Trophy, Calendar, ExternalLink } from "lucide-react";
 import { motion } from "framer-motion";
 
+interface ExperienceItem {
+  title: string;
+  award: string | null;
+  location: string;
+  date: string;
+  highlights: string[];
+  tags: string[];
+  demoUrl?: string;
+  repoUrl?: string;
+  backendUrl?: string;
+  devpostUrl?: string;
+}
+
 export default function Experience() {
-  const experiences = [
+  const experiences: ExperienceItem[] = [
     {
-      title: "Research Assistant",
+      title: "Co-Founder & CTO",
       award: null,
-      location: "University of California, Berkeley",
-      date: "Oct 2025 - Present",
+      location: "Ludus",
+      date: "Apr 2026 – Present",
       highlights: [
-        "Developing PrismLab, a procedural task synthesis framework for evaluating LLM agent generalization capabilities across tool use, planning complexity, and environmental robustness dimensions",
-        "Designed modular three-layer architecture enabling controllable task generation and implemented Docker-based evaluation environments with MCP integration and process-level rewards for systematic analysis of agent training methods",
+        "Building an outcome-first marketplace for AI agent work: multiple agents execute the same task in parallel, and users pay only for the result they keep.",
+        "Integrated 9 task agents and growing — Claude Code, Codex CLI, GitHub Copilot, Gemini CLI, Hermes, Factory Droid, Forge (Claude/Codex modes), and Perplexity Agent.",
+        "Designed full stack: React/TypeScript frontend on Cloudflare, Node.js/Hono backend on Railway, Neon Postgres, Docker-based agent execution on VM nodes with remote dispatch.",
       ],
-      tags: ["LLM", "AI Agents", "Docker", "MCP", "Python", "Research"],
+      tags: ["AI Agents", "Marketplace", "TypeScript", "Hono", "Postgres", "Cloudflare"],
+      demoUrl: "https://ludus.ai",
     },
     {
-      title: "Software Engineering Intern - AI Platform",
+      title: "Engineering Co-Lead — Agent's Last Exam (ALE)",
+      award: "NeurIPS 2026 submission · co-first author",
+      location: "UC Berkeley BAIR · Advised by Prof. Dawn Song",
+      date: "Jan 2026 – Present",
+      highlights: [
+        "Co-first author on a NeurIPS 2026 benchmark evaluating whether AI agents can deliver production-grade economic value across 90%+ of non-physical industries.",
+        "As the primary builder, filtered ~1,000 noisy expert-submitted tasks to ~300 by orchestrating parallel agents alongside my own review.",
+        "Engineered each surviving task into a standardized, execution-ready benchmark under a unified evaluation architecture covering 55 sub-fields across 13 industry clusters.",
+      ],
+      tags: ["Benchmark", "AI Agent Evaluation", "Research", "NeurIPS 2026"],
+    },
+    {
+      title: "Software Engineering Intern",
       award: null,
       location: "Geopogo",
-      date: "Fall 2025",
+      date: "Sep 2025 – Dec 2025",
       highlights: [
-        "Developed AI-powered rendering platform using Google Gemini API for architectural visualization",
-        "Built full-stack image and video generation system with React/TypeScript frontend and FastAPI backend",
-        "Integrated RunwayML SDK for text-to-video generation with real-time status polling",
-        "Implemented user authentication with Firebase and credit-based subscription system",
-        "Designed responsive chat interface with drag-and-drop image upload and real-time preview",
-        "Deployed production application on Vercel with automated CI/CD pipeline",
+        "Sole engineer on an AI architectural rendering platform shipped to production.",
+        "Built end-to-end: Google Gemini API integration, RunwayML text-to-video pipeline, React/TypeScript frontend, FastAPI backend, Firebase auth, Vercel CI/CD.",
+        "Designed responsive chat interface with drag-and-drop image upload, real-time previews, and credit-based subscription system.",
       ],
       tags: ["React", "TypeScript", "Gemini API", "RunwayML", "Firebase", "FastAPI", "Vercel"],
       demoUrl: "https://geopogo.com/AI/geopogoAIPage",
     },
     {
-      title: "AI-Powered Mario Level Generator",
-      award: "Modal Sponsor Prize - HackMIT 2025",
+      title: "Independent Project — Context8",
+      award: null,
+      location: "context8.org",
+      date: "Oct 2025 – Jan 2026",
+      highlights: [
+        "Built solo: a self-evolving Stack Overflow for AI agents. A community vote/feedback loop turns one agent's solved bug into reusable knowledge for all agents.",
+        "Two months after shipping, Andrew Ng's Context Hub and Evomap launched in adjacent directions, validating the underlying thesis that agents need persistent, shared experience.",
+      ],
+      tags: ["AI Agents", "Knowledge Network", "Solo Project"],
+      demoUrl: "https://context8.org",
+    },
+    {
+      title: "Research Intern",
+      award: null,
+      location: "Prof. Hao Wang Lab · Stevens Institute of Technology",
+      date: "Jun 2024 – Feb 2026",
+      highlights: [
+        "Investigated personalized federated learning systems with differential privacy guarantees.",
+        "Implemented training pipelines in PyTorch and TensorFlow, focusing on protecting local data while accelerating on-device model personalization.",
+      ],
+      tags: ["Federated Learning", "Differential Privacy", "PyTorch", "TensorFlow", "Research"],
+    },
+    {
+      title: "Student Ambassador",
+      award: null,
+      location: "Fetch.ai Innovation Lab",
+      date: "Sep 2024 – Oct 2025",
+      highlights: [
+        "Mentored 20+ teams at CalHack 11.0 (UC Berkeley) and SF Hacks on full-stack and agent development.",
+        "Scouted early-stage startups at Bay Area Founders Club demo summits (5,000+ startups, 1,000+ VCs) on behalf of Fetch.ai; reported shortlists to the Innovation Lab lead for investment follow-up.",
+      ],
+      tags: ["AI Agents", "Mentorship", "Deal Sourcing"],
+    },
+    {
+      title: "AI Mario Level Generator",
+      award: "Modal Sponsor Prize — HackMIT 2025",
       location: "Cambridge, MA",
       date: "Sep 2025",
       highlights: [
-        "Won Modal Sponsor Prize at HackMIT 2025",
-        "Built end-to-end system transforming hand-drawn sketches into playable Mario levels",
-        "Integrated LLaVA 1.5, OpenCV, and H100 GPU inference on Modal cloud platform",
-        "Deployed FastAPI backend and React frontend with real-time game generation",
+        "Built a sketch-to-playable-level pipeline: LLaVA 1.5 for sketch interpretation, OpenCV for layout extraction, H100 GPU inference on Modal.",
+        "FastAPI backend + React frontend; live demo available.",
       ],
       tags: ["Computer Vision", "LLaVA", "Modal", "FastAPI", "Game Dev"],
-      demoUrl: "https://frontend-ui-alpha-one.vercel.app",
+      demoUrl: "https://mario-hackmit.vercel.app",
     },
     {
       title: "Stud.ai",
-      award: "Smartest AI Agent - HackMIT 2024",
+      award: "\"Smartest AI Agent\" Award — HackMIT 2024",
       location: "Cambridge, MA",
       date: "Sep 2024",
       highlights: [
-        "Won [Smartest AI Agent] at HackMIT 2024",
-        "Built Chrome extension and AI agent system for intelligent assignment management",
-        "Streamlined assignment completion by generating step-by-step timelines",
-        "Automatically scheduled work periods in students' available calendar slots",
-        "Integrated FastAPI backend with uAgents framework for autonomous task handling",
+        "Chrome extension + AI agent that turns assignment rubrics into step-by-step timelines and auto-schedules work blocks on students' calendars.",
+        "FastAPI backend with uAgents framework for autonomous task handling.",
       ],
-      tags: ["AI Agents", "Chrome Extension", "FastAPI", "Automation", "uAgents"],
+      tags: ["AI Agents", "Chrome Extension", "FastAPI", "uAgents"],
       repoUrl: "https://github.com/andyjphu/studai-teacher-extension",
       backendUrl: "https://github.com/PangYuanbo/MITHACK_Agent",
     },
     {
-      title: "Robotic-Arm Project",
-      award: null,
-      location: "Engineering Club, Foothill College",
-      date: "Apr - Jul 2024",
-      highlights: [
-        "Developed end-to-end chess piece recognition and control system using UR10 robot",
-        "Implemented ResNet-50 for piece detection",
-        "Utilized Azure Kinect SDK for image processing",
-      ],
-      tags: ["Computer Vision", "Robotics", "Deep Learning"],
-    },
-    {
-      title: "Golden Groceries",
-      award: null,
-      location: "Berkeley, CA",
-      date: "Jun 2024",
-      highlights: [
-        "Team Project | Team Leader",
-        "Created system for seniors to track nutrient intake from food photos",
-        "Integrated ChatGPT for data analysis and You.com for real-time searches",
-      ],
-      tags: ["Healthcare", "AI", "Full-Stack"],
-    },
-    {
       title: "GetResearch",
-      award: "Best Use of .Tech Domain Name - HackDavis 2024",
+      award: "Best Use of .Tech Domain — HackDavis 2024",
       location: "Davis, CA",
       date: "Apr 2024",
       highlights: [
-        "Won [Best Use of .Tech Domain Name] at HackDavis 2024",
-        "Built platform connecting students with research opportunities and professors",
-        "Implemented real-time project listings and streamlined application process",
-        "Integrated PropelAuth authentication with PostgreSQL database",
-        "Deployed full-stack application on AWS with FastAPI backend and React frontend",
+        "Platform connecting students with research opportunities and professors, with real-time project listings and a streamlined application flow.",
+        "PropelAuth + PostgreSQL, FastAPI backend, React frontend, deployed on AWS.",
       ],
-      tags: ["React", "FastAPI", "PostgreSQL", "PropelAuth", "AWS", ".NET Core"],
+      tags: ["React", "FastAPI", "PostgreSQL", "AWS"],
       demoUrl: "https://getresearch.tech",
       repoUrl: "https://github.com/AGDholo/hack-davis",
-      backendUrl: "https://github.com/AGDholo/hack-davis-api",
       devpostUrl: "https://devpost.com/software/getresearch",
-    },
-    {
-      title: "ClearSight",
-      award: "Hack for Financial Transparency - Hack for Impact 2024",
-      location: "Berkeley, CA",
-      date: "Feb 2024",
-      highlights: [
-        "Won [Hack for Financial Transparency] award",
-        "Developed financial transparency tool with real-time HCB API data",
-        "Created intuitive, customizable dashboard with advanced visualization",
-      ],
-      tags: ["FinTech", "Data Visualization", "APIs"],
-    },
-    {
-      title: "SlugHug",
-      award: "Health Hack Second Place + Sponsor - Axure - CruzHacks 2024",
-      location: "Santa Cruz, CA",
-      date: "Jan 2024",
-      highlights: [
-        "Won [Health Hack Second Place] and [Sponsor - Axure] at CruzHacks 2024",
-        "Built anonymous mental health platform for fleeting therapeutic messages",
-        "Integrated MERN stack with Auth0 authentication and MongoDB database",
-        "Implemented AI sentiment analysis to flag inappropriate content",
-        "Designed playful UI with bubbly character theme using Axure RP 10",
-      ],
-      tags: ["React", "MongoDB", "Auth0", "MERN Stack", "UI/UX", "AI"],
-      demoUrl: "https://slughug.us/",
-      repoUrl: "https://github.com/marcus-leung/SlugHug",
-      devpostUrl: "https://devpost.com/software/slughug",
-    },
-    {
-      title: "AI-Enhanced Classroom Assistant",
-      award: "Best API - De Anza Hack 2.0",
-      location: "Cupertino, CA",
-      date: "Oct 2023",
-      highlights: [
-        "Won [Best API] at De Anza Hack 2.0",
-        "Integrated AI as teaching assistant for improved learning efficiency",
-        "Used Vosk speech recognition and OpenAI API for real-time analysis",
-      ],
-      tags: ["AI", "Speech Recognition", "OpenAI", "Education"],
     },
   ];
 
@@ -160,10 +144,10 @@ export default function Experience() {
           viewport={{ once: true }}
         >
           <h2 className="text-3xl sm:text-4xl font-bold text-center mb-4">
-            Academic Experience
+            Experience
           </h2>
           <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-            Award-winning hackathon projects and research initiatives
+            Research, building, and selected awarded projects.
           </p>
         </motion.div>
 
@@ -171,7 +155,7 @@ export default function Experience() {
           <div className="space-y-8">
             {experiences.map((exp, index) => (
               <motion.div
-                key={exp.title}
+                key={`${exp.title}-${exp.date}`}
                 initial={{ opacity: 0, x: -20 }}
                 whileInView={{ opacity: 1, x: 0 }}
                 transition={{ duration: 0.5, delay: index * 0.1 }}
@@ -219,28 +203,20 @@ export default function Experience() {
                         </Badge>
                       ))}
                       <div className="ml-auto flex flex-wrap gap-2">
-                        {"demoUrl" in exp && exp.demoUrl && (
-                          <Button
-                            size="sm"
-                            variant="outline"
-                            asChild
-                          >
+                        {exp.demoUrl && (
+                          <Button size="sm" variant="outline" asChild>
                             <a
                               href={exp.demoUrl}
                               target="_blank"
                               rel="noopener noreferrer"
                             >
                               <ExternalLink className="h-3 w-3 mr-1" />
-                              Live Demo
+                              Live
                             </a>
                           </Button>
                         )}
-                        {"repoUrl" in exp && exp.repoUrl && (
-                          <Button
-                            size="sm"
-                            variant="ghost"
-                            asChild
-                          >
+                        {exp.repoUrl && (
+                          <Button size="sm" variant="ghost" asChild>
                             <a
                               href={exp.repoUrl}
                               target="_blank"
@@ -250,12 +226,8 @@ export default function Experience() {
                             </a>
                           </Button>
                         )}
-                        {"backendUrl" in exp && exp.backendUrl && (
-                          <Button
-                            size="sm"
-                            variant="ghost"
-                            asChild
-                          >
+                        {exp.backendUrl && (
+                          <Button size="sm" variant="ghost" asChild>
                             <a
                               href={exp.backendUrl}
                               target="_blank"
@@ -265,12 +237,8 @@ export default function Experience() {
                             </a>
                           </Button>
                         )}
-                        {"devpostUrl" in exp && exp.devpostUrl && (
-                          <Button
-                            size="sm"
-                            variant="ghost"
-                            asChild
-                          >
+                        {exp.devpostUrl && (
+                          <Button size="sm" variant="ghost" asChild>
                             <a
                               href={exp.devpostUrl}
                               target="_blank"
