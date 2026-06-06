@@ -22,7 +22,7 @@ interface ExperienceItem {
 export default function Experience() {
   const experiences: ExperienceItem[] = [
     {
-      title: "Co-Founder & CTO",
+      title: "Full-Stack Engineer",
       award: null,
       location: "Ludus",
       date: "Apr 2026 – Present",

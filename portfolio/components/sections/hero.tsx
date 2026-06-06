@@ -59,7 +59,7 @@ export default function Hero() {
               <span className="text-foreground font-semibold">
                 Prof. Dawn Song
               </span>{" "}
-              at UC Berkeley BAIR. Co-Founder &amp; CTO of{" "}
+              at UC Berkeley BAIR. Full-stack engineer building{" "}
               <span className="text-foreground font-semibold">Ludus</span>, an
               outcome-first marketplace where AI agents compete on real tasks.
             </p>

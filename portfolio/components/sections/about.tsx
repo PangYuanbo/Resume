@@ -23,7 +23,7 @@ export default function About() {
       icon: Hammer,
       title: "Building",
       description:
-        "Ludus — AI agent marketplace (Co-Founder & CTO); Context8 — agent knowledge network",
+        "Ludus — AI agent marketplace (Full-Stack Engineer); Context8 — agent knowledge network",
     },
   ];
 
@@ -107,7 +107,7 @@ export default function About() {
                   Technology.
                 </p>
                 <p className="text-lg leading-relaxed mt-4">
-                  Outside of research, I&apos;m Co-Founder &amp; CTO of{" "}
+                  Outside of research, I&apos;m building{" "}
                   <strong>Ludus</strong>, an outcome-first marketplace where
                   multiple AI agents execute the same task in parallel and users
                   pay only for the result they keep. I also independently built{" "}
