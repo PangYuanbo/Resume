@@ -1,0 +1,36 @@
+{
+  "rows": 1000,
+  "companyTypes": {
+    "Startup / venture-backed company": 199,
+    "大厂 / large public or mega-scale company": 245,
+    "量化 / trading firm": 19,
+    "独角兽 / late-stage private tech company": 28,
+    "Startup / small-to-mid company": 157,
+    "中厂 / established mid-size company": 257,
+    "政府/国防 contractor": 90,
+    "公共机构 / education or healthcare institution": 5
+  },
+  "companyTypeConfidence": {
+    "high": 694,
+    "medium": 117,
+    "low": 189
+  },
+  "jobDomains": {
+    "Backend / full-stack software": 526,
+    "Infrastructure / platform / SRE / DevOps": 106,
+    "AI/ML / applied AI": 147,
+    "Data / analytics / BI": 50,
+    "QA / test / validation": 39,
+    "Embedded / firmware / robotics / hardware-adjacent": 20,
+    "General software / IT": 76,
+    "Frontend / web / UI": 18,
+    "Product / TPM / solutions": 8,
+    "Quant / trading / finance tech": 3,
+    "Mobile": 7
+  },
+  "jobDomainConfidence": {
+    "medium": 492,
+    "high": 432,
+    "low": 76
+  }
+}

@@ -1,0 +1,2533 @@
+[
+  {
+    "company": "Citadel Securities",
+    "role": "Software Engineer – University Graduate - US",
+    "applicationUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&ref=Simplify",
+    "browserUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&ref=Simplify",
+    "browserTitle": "Just a moment...",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 href=\"https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=l\">Cloudflare</a> <a node_id=2 href=\"https://www.cloudflare.com/privacypolicy/\">Privacy</a>",
+    "focused": {
+      "body": "Skip to Content Who We Are What We Do News & Insights Careers Page Not Found Go to the homepage Citadel Securities Counterparty Login Who We Are What We Do News & Insights Careers Privacy Terms of Use Fraud Notice Disclosures Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved. Our website uses essential cookies that are strictly necessary to enable our website to function. We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences. Manage My Preferences Reject Non-Essential Cookies Accept All Cookies",
+      "controls": [
+        {
+          "href": "#section-1",
+          "tag": "A",
+          "text": "Skip to Content"
+        },
+        {
+          "href": "/",
+          "tag": "A",
+          "text": ""
+        },
+        {
+          "href": "/who-we-are/",
+          "tag": "A",
+          "text": "Who We Are"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/who-we-are/",
+          "tag": "A",
+          "text": "Learn More"
+        },
+        {
+          "href": "/who-we-are/our-culture/",
+          "tag": "A",
+          "text": "Our Culture"
+        },
+        {
+          "href": "/who-we-are/leadership/",
+          "tag": "A",
+          "text": "Leadership Team"
+        },
+        {
+          "href": "/who-we-are/civic-leadership/",
+          "tag": "A",
+          "text": "Civic Leadership"
+        },
+        {
+          "href": "/who-we-are/office-locations/",
+          "tag": "A",
+          "text": "Office Locations"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "×"
+        },
+        {
+          "href": "/what-we-do/",
+          "tag": "A",
+          "text": "What We Do"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/what-we-do/",
+          "tag": "A",
+          "text": "Learn More"
+        },
+        {
+          "href": "/what-we-do/equities/",
+          "tag": "A",
+          "text": "Equities"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/what-we-do/equities/designated-market-maker-dmm/",
+          "tag": "A",
+          "text": "Designated Market Maker"
+        },
+        {
+          "href": "/what-we-do/options",
+          "tag": "A",
+          "text": "Options"
+        },
+        {
+          "href": "/what-we-do/fixed-income-and-fx",
+          "tag": "A",
+          "text": "Fixed Income & FX"
+        },
+        {
+          "href": "/what-we-do/what-is-a-market-maker/",
+          "tag": "A",
+          "text": "What is a Market Maker?"
+        },
+        {
+          "href": "/valuation-metrics/",
+          "tag": "A",
+          "text": "Corporate Solutions"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "×"
+        },
+        {
+          "href": "/news-and-insights",
+          "tag": "A",
+          "text": "News & Insights"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/news-and-insights",
+          "tag": "A",
+          "text": "Learn More"
+        },
+        {
+          "href": "/news-and-insights/in-the-media/",
+          "tag": "A",
+          "text": "In the Media"
+        },
+        {
+          "href": "/news-and-insights/category/market-insights/",
+          "tag": "A",
+          "text": "Market Insights"
+        },
+        {
+          "href": "/news-and-insights/policy-positions/",
+          "tag": "A",
+          "text": "Policy Positions"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "×"
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Careers"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Learn More"
+        },
+        {
+          "href": "/careers/markets-and-trading",
+          "tag": "A",
+          "text": "Markets & Trading"
+        },
+        {
+          "href": "/careers/quantitative-research/",
+          "tag": "A",
+          "text": "Quantitative Research"
+        },
+        {
+          "href": "/careers/engineering/",
+          "tag": "A",
+          "text": "Engineering"
+        },
+        {
+          "href": "/careers/internships",
+          "tag": "A",
+          "text": "Internships"
+        },
+        {
+          "href": "/careers/programs-and-events",
+          "tag": "A",
+          "text": "Programs & Events"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/careers/programs-and-events/conference-travel-grant/",
+          "tag": "A",
+          "text": "Conference Travel Grant"
+        },
+        {
+          "href": "/careers/programs-and-events/datathons",
+          "tag": "A",
+          "text": "Datathons"
+        },
+        {
+          "href": "/careers/programs-and-events/discover-citadel-securities/",
+          "tag": "A",
+          "text": "Discover Citadel Securities"
+        },
+        {
+          "href": "/careers/programs-and-events/the-citadel-securities-quant-invitational/",
+          "tag": "A",
+          "text": "Citadel Securities Quant Invitational"
+        },
+        {
+          "href": "/careers/programs-and-events/ignite-womens-trading-program/",
+          "tag": "A",
+          "text": "Ignite Women's Trading Program"
+        },
+        {
+          "href": "/careers/programs-and-events/phd-summit/",
+          "tag": "A",
+          "text": "PhD Summit"
+        },
+        {
+          "href": "/careers/programs-and-events/terminal/",
+          "tag": "A",
+          "text": "Terminal"
+        },
+        {
+          "href": "/careers/programs-and-events/the-trading-invitational/",
+          "tag": "A",
+          "text": "Trading Invitational"
+        },
+        {
+          "href": "/careers/career-perspectives/",
+          "tag": "A",
+          "text": "Career Perspectives"
+        },
+        {
+          "href": "/careers/open-opportunities/",
+          "tag": "A",
+          "text": "Open Opportunities"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/careers/open-opportunities/positions-for-professionals/",
+          "tag": "A",
+          "text": "Positions for Professionals"
+        },
+        {
+          "href": "/careers/open-opportunities?experience-filter=internships&selected-job-sections=323,325,324,326&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+          "tag": "A",
+          "text": "Internships"
+        },
+        {
+          "href": "/careers/open-opportunities?experience-filter=new-graduates&selected-job-sections=323,325,324,326&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+          "tag": "A",
+          "text": "Full Time"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "×"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/who-we-are/",
+          "tag": "A",
+          "text": "Who We Are"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/who-we-are/",
+          "tag": "A",
+          "text": "Overview"
+        },
+        {
+          "href": "/who-we-are/our-culture/",
+          "tag": "A",
+          "text": "Our Culture"
+        },
+        {
+          "href": "/who-we-are/leadership/",
+          "tag": "A",
+          "text": "Leadership Team"
+        },
+        {
+          "href": "/who-we-are/civic-leadership/",
+          "tag": "A",
+          "text": "Civic Leadership"
+        },
+        {
+          "href": "/who-we-are/office-locations/",
+          "tag": "A",
+          "text": "Office Locations"
+        },
+        {
+          "href": "/what-we-do/",
+          "tag": "A",
+          "text": "What We Do"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/what-we-do/",
+          "tag": "A",
+          "text": "Overview"
+        },
+        {
+          "href": "/what-we-do/equities/",
+          "tag": "A",
+          "text": "Equities"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/what-we-do/equities/",
+          "tag": "A",
+          "text": "Overview"
+        },
+        {
+          "href": "/what-we-do/equities/designated-market-maker-dmm/",
+          "tag": "A",
+          "text": "Designated Market Maker"
+        },
+        {
+          "href": "/what-we-do/options",
+          "tag": "A",
+          "text": "Options"
+        },
+        {
+          "href": "/what-we-do/fixed-income-and-fx",
+          "tag": "A",
+          "text": "Fixed Income & FX"
+        },
+        {
+          "href": "/what-we-do/what-is-a-market-maker/",
+          "tag": "A",
+          "text": "What is a Market Maker?"
+        },
+        {
+          "href": "/valuation-metrics/",
+          "tag": "A",
+          "text": "Corporate Solutions"
+        },
+        {
+          "href": "/news-and-insights",
+          "tag": "A",
+          "text": "News & Insights"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/news-and-insights",
+          "tag": "A",
+          "text": "Overview"
+        },
+        {
+          "href": "/news-and-insights/in-the-media/",
+          "tag": "A",
+          "text": "In the Media"
+        },
+        {
+          "href": "/news-and-insights/category/market-insights/",
+          "tag": "A",
+          "text": "Market Insights"
+        },
+        {
+          "href": "/news-and-insights/policy-positions/",
+          "tag": "A",
+          "text": "Policy Positions"
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Careers"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Overview"
+        }
+      ],
+      "title": "Page not found - Citadel Securities",
+      "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&ref=Simplify"
+    }
+  },
+  {
+    "company": "Meta",
+    "role": "New Grad 2026: Product Security Engineer",
+    "applicationUrl": "https://www.metacareers.com/jobs/609052015548260?utm_source=vansh",
+    "browserUrl": "https://www.metacareers.com/jobs/position-not-available/",
+    "browserTitle": "Meta Careers",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Meta home\" href=\"/\" role=\"link\" /> <a node_id=2 href=\"/jobsearch\" role=\"link\">Jobs</a> <a node_id=3 href=\"#\" role=\"link\">Teams</a> <a node_id=4 href=\"#\" role=\"link\">Career Programs</a> <a node_id=5 href=\"#\" role=\"link\">Working at Meta</a> <a node_id=6 href=\"/blog\" role=\"link\">Blog</a> <a node_id=7 href=\"/podcasts\" role=\"link\">Podcasts</a> <div node_id=8 aria-label=\"Open login page\" role=\"button\" /> <a node_id=9 href=\"/jobsearch\">View jobs</a> <input node_id=10 aria-label=\"Search by technology, team, location or ref. code\" placeholder=\"Search by technology, team, locati",
+    "focused": {
+      "body": "Jobs Teams Career Programs Working at Meta Blog Podcasts Sorry, this job is no longer available It looks like the job description you were looking for has been removed. Click the button to view all jobs or search Meta Careers below. View jobs Search Meta Careers META HIRING PROCESS Help us push boundaries with cutting-edge research At Meta, we look for candidates who are not only skilled and knowledgeable but also bring their unique perspectives to help us build better technologies. We appreciate individuals who are passionate about making a positive impact and possess a creative, curious mindset. View our hiring process What's new at Meta Get the latest on our emerging technologies, our culture and the people making human connection possible Browse Meta Careers Blog Browse Meta Newsroom AI AT META BLOG Omnilingual ASR: Advancing Automatic Speech Recognition for 1,600+ Languages We’re introducing Meta Omnilingual Automatic Speech Recognition, a suite of models providing automatic speech recognition capabilities for over 1,600 languages. Read more META QUEST BLOG Primate Party: Celebrate 4 Years of ‘Gorilla Tag’ Surprise! It’s Gorilla Tag’s fourth birthday, and in celebration, developer Another Axiom is going absolutely ape. This week, you can take part in a massive… Read more AI AT META BLOG Reducing Government Costs and Increasing Access to Greenspaces in the United Kingdom with DINO Meta's DINOv2 model is enhancing reforestation efforts around the world. Learn how the UK government is using DINO to help reduce costs and increase access… Read more META QUEST BLOG The Meta Horizon+ Catalog Explodes with 8 New Games to Play in November Meta Horizon+ is getting even better in November with new games for subscribers to play right now. We’ve got eight (!) new games to play…",
+      "controls": [
+        {
+          "href": "",
+          "tag": "DIV",
+          "text": "Open mobile navigation menu"
+        },
+        {
+          "href": "/",
+          "tag": "A",
+          "text": "Meta home"
+        },
+        {
+          "href": "/jobsearch",
+          "tag": "A",
+          "text": "Jobs"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "Teams"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "Career Programs"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "Working at Meta"
+        },
+        {
+          "href": "/blog",
+          "tag": "A",
+          "text": "Blog"
+        },
+        {
+          "href": "/podcasts",
+          "tag": "A",
+          "text": "Podcasts"
+        },
+        {
+          "href": "",
+          "tag": "DIV",
+          "text": "Open login page"
+        },
+        {
+          "href": "/jobsearch",
+          "tag": "A",
+          "text": "View jobs"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "See All Job Results"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        }
+      ],
+      "title": "Meta Careers",
+      "url": "https://www.metacareers.com/jobs/position-not-available/"
+    }
+  },
+  {
+    "company": "Bits to Atoms",
+    "role": "Software Engineer 🇺🇸",
+    "applicationUrl": "https://jobs.bitstoatoms.com/bits-to-atoms/953ef025-ec88-450d-8f8f-2cb38cc8e839?utm_source=vansh",
+    "browserUrl": "https://www.metacareers.com/jobs/position-not-available/",
+    "browserTitle": "Meta Careers",
+    "browserVerdict": "browser_error_manual",
+    "browserReason": "Browser Use cannot open https://jobs.bitstoatoms.com/bits-to-atoms/953ef025-ec88-450d-8f8f-2cb38cc8e839 in tab 1. Browser reported: net::ERR_BLOCKED_BY_CLIENT",
+    "visibleSample": "",
+    "focusedError": "Browser Use cannot open https://jobs.bitstoatoms.com/bits-to-atoms/953ef025-ec88-450d-8f8f-2cb38cc8e839 in tab 1. Browser reported: net::ERR_BLOCKED_BY_CLIENT"
+  },
+  {
+    "company": "Meta",
+    "role": "Data Engineer, Analytics",
+    "applicationUrl": "https://www.metacareers.com/jobs/2578176955882259?utm_source=vansh",
+    "browserUrl": "https://www.metacareers.com/jobs/position-not-available/",
+    "browserTitle": "Meta Careers",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Meta home\" href=\"/\" role=\"link\" /> <a node_id=2 href=\"/jobsearch\" role=\"link\">Jobs</a> <a node_id=3 href=\"#\" role=\"link\">Teams</a> <a node_id=4 href=\"#\" role=\"link\">Career Programs</a> <a node_id=5 href=\"#\" role=\"link\">Working at Meta</a> <a node_id=6 href=\"/blog\" role=\"link\">Blog</a> <a node_id=7 href=\"/podcasts\" role=\"link\">Podcasts</a> <div node_id=8 aria-label=\"Open login page\" role=\"button\" /> <a node_id=9 href=\"/jobsearch\">View jobs</a> <input node_id=10 aria-label=\"Search by technology, team, location or ref. code\" placeholder=\"Search by technology, team, locati",
+    "focused": {
+      "body": "Jobs Teams Career Programs Working at Meta Blog Podcasts Sorry, this job is no longer available It looks like the job description you were looking for has been removed. Click the button to view all jobs or search Meta Careers below. View jobs Search Meta Careers META HIRING PROCESS Help us push boundaries with cutting-edge research At Meta, we look for candidates who are not only skilled and knowledgeable but also bring their unique perspectives to help us build better technologies. We appreciate individuals who are passionate about making a positive impact and possess a creative, curious mindset. View our hiring process What's new at Meta Get the latest on our emerging technologies, our culture and the people making human connection possible Browse Meta Careers Blog Browse Meta Newsroom META QUEST BLOG Inside Aria Gen 2: Explore the Cutting-Edge Tech Behind the Device Today, we’re excited to share more about the technology inside Aria Gen 2. This includes an in-depth overview of the form factor, audio capabilities, battery… Read more META QUEST BLOG ‘DrakkenRidge’ Is an All-New Epic Fantasy Adventure Out Now for Meta Quest If you’re interested in swapping the desk and 9-to-5 for a battle axe and fireballs, then the new single-player fantasy adventure RPG DrakkenRidge is just… Read more META QUEST BLOG Orion’s Compute Puck: The Story Behind the Device that Helped Make Our AR Glasses Possible Last year at Connect, we unveiled Orion—our first true pair of AR glasses. Today, we’re turning our attention to an unsung hero of Orion: the… Read more META CAREERS Why networking infrastructure is critical for AI innovation Omar Baldonado, senior director of data center networking, provides an inside look at what it’s like to build the infrastructure supporting the future of AI. R",
+      "controls": [
+        {
+          "href": "",
+          "tag": "DIV",
+          "text": "Open mobile navigation menu"
+        },
+        {
+          "href": "/",
+          "tag": "A",
+          "text": "Meta home"
+        },
+        {
+          "href": "/jobsearch",
+          "tag": "A",
+          "text": "Jobs"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "Teams"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "Career Programs"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "Working at Meta"
+        },
+        {
+          "href": "/blog",
+          "tag": "A",
+          "text": "Blog"
+        },
+        {
+          "href": "/podcasts",
+          "tag": "A",
+          "text": "Podcasts"
+        },
+        {
+          "href": "",
+          "tag": "DIV",
+          "text": "Open login page"
+        },
+        {
+          "href": "/jobsearch",
+          "tag": "A",
+          "text": "View jobs"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "See All Job Results"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        }
+      ],
+      "title": "Meta Careers",
+      "url": "https://www.metacareers.com/jobs/position-not-available/"
+    }
+  },
+  {
+    "company": "Meta",
+    "role": "Software Engineer",
+    "applicationUrl": "https://www.metacareers.com/jobs/1947521902323717?utm_source=vansh",
+    "browserUrl": "https://www.metacareers.com/jobs/position-not-available/",
+    "browserTitle": "Meta Careers",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Meta home\" href=\"/\" role=\"link\" /> <a node_id=2 href=\"/jobsearch\" role=\"link\">Jobs</a> <a node_id=3 href=\"#\" role=\"link\">Teams</a> <a node_id=4 href=\"#\" role=\"link\">Career Programs</a> <a node_id=5 href=\"#\" role=\"link\">Working at Meta</a> <a node_id=6 href=\"/blog\" role=\"link\">Blog</a> <a node_id=7 href=\"/podcasts\" role=\"link\">Podcasts</a> <div node_id=8 aria-label=\"Open login page\" role=\"button\" /> <a node_id=9 href=\"/jobsearch\">View jobs</a> <input node_id=10 aria-label=\"Search by technology, team, location or ref. code\" placeholder=\"Search by technology, team, locati",
+    "focused": {
+      "body": "Jobs Teams Career Programs Working at Meta Blog Podcasts Sorry, this job is no longer available It looks like the job description you were looking for has been removed. Click the button to view all jobs or search Meta Careers below. View jobs Search Meta Careers META HIRING PROCESS Help us push boundaries with cutting-edge research At Meta, we look for candidates who are not only skilled and knowledgeable but also bring their unique perspectives to help us build better technologies. We appreciate individuals who are passionate about making a positive impact and possess a creative, curious mindset. View our hiring process What's new at Meta Get the latest on our emerging technologies, our culture and the people making human connection possible Browse Meta Careers Blog Browse Meta Newsroom AI AT META BLOG How Sofya is taking clinical reasoning to the next level with Sofya turned to Llama with the goal of fostering the development of healthcare solutions in Brazil and Latin America. Read more META CAREERS Why networking infrastructure is critical for AI innovation Omar Baldonado, senior director of data center networking, provides an inside look at what it’s like to build the infrastructure supporting the future of AI. Read more META QUEST BLOG Save 30% on Select Meta Quest Games During Our Power-Up Promo It's time to level up your savings! Starting today, you can save 30% on select Meta Quest games in the Meta Horizon Store as part… Read more Job Search Technology Teams Artificial Intelligence Creative Infrastructure Metaverse and Wearables Product and Program Management Research and Data Security Software Engineering Business Teams Business Operations Partnerships Sales and Marketing Career Programs Research Accelerate Eng Talent Students and Grads Rotational Programs Wo",
+      "controls": [
+        {
+          "href": "",
+          "tag": "DIV",
+          "text": "Open mobile navigation menu"
+        },
+        {
+          "href": "/",
+          "tag": "A",
+          "text": "Meta home"
+        },
+        {
+          "href": "/jobsearch",
+          "tag": "A",
+          "text": "Jobs"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "Teams"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "Career Programs"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "Working at Meta"
+        },
+        {
+          "href": "/blog",
+          "tag": "A",
+          "text": "Blog"
+        },
+        {
+          "href": "/podcasts",
+          "tag": "A",
+          "text": "Podcasts"
+        },
+        {
+          "href": "",
+          "tag": "DIV",
+          "text": "Open login page"
+        },
+        {
+          "href": "/jobsearch",
+          "tag": "A",
+          "text": "View jobs"
+        },
+        {
+          "href": "#",
+          "tag": "A",
+          "text": "See All Job Results"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        }
+      ],
+      "title": "Meta Careers",
+      "url": "https://www.metacareers.com/jobs/position-not-available/"
+    }
+  },
+  {
+    "company": "Tesla",
+    "role": "Frontend Engineer, GenAI Model Evaluation",
+    "applicationUrl": "https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=vansh",
+    "browserUrl": "https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=vansh",
+    "browserTitle": "tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=vansh",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 href=\"https://www.tesla.com/?redirect=no\">homepage</a> <a node_id=2 href=\"/support/?redirect=no\">Support</a> <a node_id=3 href=\"/about\">Tesla © 2026</a> <a node_id=4 href=\"/about/legal\" title=\"Privacy &amp; Legal\">Privacy &amp; Legal</a> <a node_id=5 href=\"/contact\" title=\"Contact\">Contact</a> <a node_id=6 href=\"/careers\" title=\"Careers\">Careers</a> <a node_id=7 href=\"/updates\" title=\"Get Newsletter\">Get Newsletter</a> <a node_id=8 href=\"/findus/list\" title=\"Locations\">Locations</a>",
+    "focused": {
+      "body": "404 I'm afraid I can't do that. Join Starman back at the homepage or visit Support for help. Tesla © 2026 Privacy & Legal Contact Careers Get Newsletter Locations",
+      "controls": [
+        {
+          "href": "https://www.tesla.com/?redirect=no",
+          "tag": "A",
+          "text": "homepage"
+        },
+        {
+          "href": "/support/?redirect=no",
+          "tag": "A",
+          "text": "Support"
+        },
+        {
+          "href": "/about",
+          "tag": "A",
+          "text": "Tesla © 2026"
+        },
+        {
+          "href": "/about/legal",
+          "tag": "A",
+          "text": "Privacy & Legal"
+        },
+        {
+          "href": "/contact",
+          "tag": "A",
+          "text": "Contact"
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Careers"
+        },
+        {
+          "href": "/updates",
+          "tag": "A",
+          "text": "Get Newsletter"
+        },
+        {
+          "href": "/findus/list",
+          "tag": "A",
+          "text": "Locations"
+        }
+      ],
+      "title": "Page Not Found | Tesla",
+      "url": "https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=vansh"
+    }
+  },
+  {
+    "company": "Tesla",
+    "role": "In Vehicle Test Engineer, Steering, Vehicle Software",
+    "applicationUrl": "https://www.tesla.com/careers/search/job/255247?utm_source=vansh",
+    "browserUrl": "https://www.tesla.com/careers/search/job/255247?utm_source=vansh",
+    "browserTitle": "In Vehicle Test Engineer, Steering, Vehicle Software",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Tesla Logo\" href=\"/\">Tesla homepage</a> <a node_id=2 href=\"/careers\">Careers</a> <a node_id=3 href=\"#main-content\">Skip to main content</a> <a node_id=4 href=\"/careers/search\" title=\"Explore Jobs\">Explore Jobs</a> <a node_id=5 href=\"/manufacturing\" title=\"Manufacturing\">Manufacturing</a> <a node_id=6 href=\"/ai\" title=\"AI\">AI</a> <a node_id=7 href=\"https://terafab.ai/\" title=\"Terafab\">Terafab</a> <a node_id=8 href=\"/careers/vehicle-software\" title=\"Vehicle Software\">Vehicle Software</a> <a node_id=9 href=\"/careers/internships\" title=\"Internships\">Internships</a> <a node",
+    "focused": {
+      "body": "Tesla homepage Careers Skip to main content Explore Jobs Manufacturing AI Terafab Vehicle Software Internships About Us Profile US Go to search In Vehicle Test Engineer, Steering, Vehicle Software Job Category Vehicle Software Location East Liberty, Ohio Req. ID 255247 Job Type Full-time What to Expect We are seeking a Steering Controls Vehicle Test Engineer to help shape the future of steering technology. You will be responsible for testing and validating safety-critical steering control software across multiple vehicle platforms, including electric power assisted steering and steer-by-wire systems. You will spend most of your time at proving grounds, executing dynamic and at-limit driving maneuvers in prototype vehicles, modifying and flashing steering software, and analyzing how hardware and software changes impact control systems and vehicle attributes. You will collaborate closely with software, controls, and vehicle dynamics engineers to understand requirements, attribute philosophies, and system changes. Your feedback - both objective measurements and subjective evaluations - will be critical to ensuring steering systems meet safety standards and deliver exceptional driving performance. This position requires approximately 30% travel to proving grounds worldwide and offers the opportunity to influence industry-leading technologies. What You’ll Do Execute in-vehicle test cases to validate steering control systems Provide in-vehicle controllability assessments for prototype steering software Design and develop new test cases and procedures for electric power assisted steering and steer-by-wire systems Document both objective measurements and subjective feedback on vehicle behavior Build a strong understanding of steering software to translate changes into updated t",
+      "controls": [
+        {
+          "href": "/",
+          "tag": "A",
+          "text": "Tesla homepage"
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Careers"
+        },
+        {
+          "href": "#main-content",
+          "tag": "A",
+          "text": "Skip to main content"
+        },
+        {
+          "href": "/careers/search",
+          "tag": "A",
+          "text": "Explore Jobs"
+        },
+        {
+          "href": "/manufacturing",
+          "tag": "A",
+          "text": "Manufacturing"
+        },
+        {
+          "href": "/ai",
+          "tag": "A",
+          "text": "AI"
+        },
+        {
+          "href": "https://terafab.ai/",
+          "tag": "A",
+          "text": "Terafab"
+        },
+        {
+          "href": "/careers/vehicle-software",
+          "tag": "A",
+          "text": "Vehicle Software"
+        },
+        {
+          "href": "/careers/internships",
+          "tag": "A",
+          "text": "Internships"
+        },
+        {
+          "href": "/about",
+          "tag": "A",
+          "text": "About Us"
+        },
+        {
+          "href": "https://profile.tesla.com",
+          "tag": "A",
+          "text": "Profile"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "US"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "Close Modal"
+        },
+        {
+          "href": "/careers/search/",
+          "tag": "A",
+          "text": "Go to search"
+        },
+        {
+          "href": "https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn",
+          "tag": "A",
+          "text": "click here to download a free compatible screen reader"
+        },
+        {
+          "href": "http://www.chromevox.com/tutorial",
+          "tag": "A",
+          "text": "tutorial can be found here"
+        },
+        {
+          "href": "mailto:ADA@tesla.com",
+          "tag": "A",
+          "text": "ADA@tesla.com"
+        },
+        {
+          "href": "https://digitalassets.tesla.com/tesla-contents/image/upload/Tesla-Talent-Privacy-Notice-%28Global%29",
+          "tag": "A",
+          "text": "Tesla Talent Privacy Notice"
+        },
+        {
+          "href": "/careers/search/job/apply/255247?utm_source=vansh",
+          "tag": "A",
+          "text": "Apply"
+        },
+        {
+          "href": "/about",
+          "tag": "A",
+          "text": "Tesla © 2026"
+        },
+        {
+          "href": "/about/legal",
+          "tag": "A",
+          "text": "Privacy & Legal"
+        },
+        {
+          "href": "https://inside.tesla.com",
+          "tag": "A",
+          "text": "Tesla Connect"
+        },
+        {
+          "href": "https://www.tesla.com/legal/cookies",
+          "tag": "A",
+          "text": "Cookie Settings"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "Accept"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "Reject"
+        }
+      ],
+      "title": "In Vehicle Test Engineer, Steering, Vehicle Software",
+      "url": "https://www.tesla.com/careers/search/job/255247?utm_source=vansh"
+    }
+  },
+  {
+    "company": "Tesla",
+    "role": "Software Engineer, Manufacturing Test",
+    "applicationUrl": "https://www.tesla.com/careers/search/job/242064?utm_source=vansh",
+    "browserUrl": "https://www.tesla.com/careers/search/job/242064?utm_source=vansh",
+    "browserTitle": "Build your Career at Tesla",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Tesla Logo\" href=\"/\">Tesla homepage</a> <a node_id=2 href=\"/careers\">Careers</a> <a node_id=3 href=\"#main-content\">Skip to main content</a> <a node_id=4 href=\"/careers/search\" title=\"Explore Jobs\">Explore Jobs</a> <a node_id=5 href=\"/manufacturing\" title=\"Manufacturing\">Manufacturing</a> <a node_id=6 href=\"/ai\" title=\"AI\">AI</a> <a node_id=7 href=\"https://terafab.ai/\" title=\"Terafab\">Terafab</a> <a node_id=8 href=\"/careers/vehicle-software\" title=\"Vehicle Software\">Vehicle Software</a> <a node_id=9 href=\"/careers/internships\" title=\"Internships\">Internships</a> <a node",
+    "focused": {
+      "body": "Tesla homepage Careers Skip to main content Explore Jobs Manufacturing AI Terafab Vehicle Software Internships About Us Profile US Build your Career at Tesla An error has occurred The website encountered an unexpected error. Please try again later. Tesla © 2026 Privacy & Legal Tesla Connect Help Us Improve Our Website with Cookies We use cookies and process data from your device to analyze website performance, personalize ad content, and improve your experience. Your consent includes data transfers outside of the country you’re located. View Cookie Settings for more information. Accept Reject",
+      "controls": [
+        {
+          "href": "/",
+          "tag": "A",
+          "text": "Tesla homepage"
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Careers"
+        },
+        {
+          "href": "#main-content",
+          "tag": "A",
+          "text": "Skip to main content"
+        },
+        {
+          "href": "/careers/search",
+          "tag": "A",
+          "text": "Explore Jobs"
+        },
+        {
+          "href": "/manufacturing",
+          "tag": "A",
+          "text": "Manufacturing"
+        },
+        {
+          "href": "/ai",
+          "tag": "A",
+          "text": "AI"
+        },
+        {
+          "href": "https://terafab.ai/",
+          "tag": "A",
+          "text": "Terafab"
+        },
+        {
+          "href": "/careers/vehicle-software",
+          "tag": "A",
+          "text": "Vehicle Software"
+        },
+        {
+          "href": "/careers/internships",
+          "tag": "A",
+          "text": "Internships"
+        },
+        {
+          "href": "/about",
+          "tag": "A",
+          "text": "About Us"
+        },
+        {
+          "href": "https://profile.tesla.com",
+          "tag": "A",
+          "text": "Profile"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "US"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "Close Modal"
+        },
+        {
+          "href": "/about",
+          "tag": "A",
+          "text": "Tesla © 2026"
+        },
+        {
+          "href": "/about/legal",
+          "tag": "A",
+          "text": "Privacy & Legal"
+        },
+        {
+          "href": "https://inside.tesla.com",
+          "tag": "A",
+          "text": "Tesla Connect"
+        },
+        {
+          "href": "https://www.tesla.com/legal/cookies",
+          "tag": "A",
+          "text": "Cookie Settings"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "Accept"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "Reject"
+        }
+      ],
+      "title": "Build your Career at Tesla",
+      "url": "https://www.tesla.com/careers/search/job/242064?utm_source=vansh"
+    }
+  },
+  {
+    "company": "Perplexity",
+    "role": "Associate Product Manager Program",
+    "applicationUrl": "https://www.perplexity.ai/hub/associate-product-manager?utm_source=vansh",
+    "browserUrl": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/?utm_source=vansh",
+    "browserTitle": "Page not found - Citadel Securities",
+    "browserVerdict": "browser_error_manual",
+    "browserReason": "Browser Use rejected this action due to browser security policy. Reason: Browser Use is not permitted on https://www.perplexity.ai/hub/associate-product-manager. The agent must not attempt to achieve the same outcome via",
+    "visibleSample": "",
+    "focusedVerdict": "browser_policy_blocked",
+    "focusedReason": "Browser Use rejected this action due to browser security policy. Reason: Browser Use is not permitted on https://www.perplexity.ai/hub/associate-product-manager. The agent must not attempt to achieve the same outcome via"
+  },
+  {
+    "company": "Tesla",
+    "role": "Technical Artist, UI Design",
+    "applicationUrl": "https://www.tesla.com/careers/search/job/239333?utm_source=vansh",
+    "browserUrl": "https://www.tesla.com/careers/search/job/239333?utm_source=vansh",
+    "browserTitle": "Build your Career at Tesla",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Tesla Logo\" href=\"/\">Tesla homepage</a> <a node_id=2 href=\"/careers\">Careers</a> <a node_id=3 href=\"#main-content\">Skip to main content</a> <a node_id=4 href=\"/careers/search\" title=\"Explore Jobs\">Explore Jobs</a> <a node_id=5 href=\"/manufacturing\" title=\"Manufacturing\">Manufacturing</a> <a node_id=6 href=\"/ai\" title=\"AI\">AI</a> <a node_id=7 href=\"https://terafab.ai/\" title=\"Terafab\">Terafab</a> <a node_id=8 href=\"/careers/vehicle-software\" title=\"Vehicle Software\">Vehicle Software</a> <a node_id=9 href=\"/careers/internships\" title=\"Internships\">Internships</a> <a node",
+    "focused": {
+      "body": "Tesla homepage Careers Skip to main content Explore Jobs Manufacturing AI Terafab Vehicle Software Internships About Us Profile US Build your Career at Tesla An error has occurred The website encountered an unexpected error. Please try again later. Tesla © 2026 Privacy & Legal Tesla Connect Help Us Improve Our Website with Cookies We use cookies and process data from your device to analyze website performance, personalize ad content, and improve your experience. Your consent includes data transfers outside of the country you’re located. View Cookie Settings for more information. Accept Reject",
+      "controls": [
+        {
+          "href": "/",
+          "tag": "A",
+          "text": "Tesla homepage"
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Careers"
+        },
+        {
+          "href": "#main-content",
+          "tag": "A",
+          "text": "Skip to main content"
+        },
+        {
+          "href": "/careers/search",
+          "tag": "A",
+          "text": "Explore Jobs"
+        },
+        {
+          "href": "/manufacturing",
+          "tag": "A",
+          "text": "Manufacturing"
+        },
+        {
+          "href": "/ai",
+          "tag": "A",
+          "text": "AI"
+        },
+        {
+          "href": "https://terafab.ai/",
+          "tag": "A",
+          "text": "Terafab"
+        },
+        {
+          "href": "/careers/vehicle-software",
+          "tag": "A",
+          "text": "Vehicle Software"
+        },
+        {
+          "href": "/careers/internships",
+          "tag": "A",
+          "text": "Internships"
+        },
+        {
+          "href": "/about",
+          "tag": "A",
+          "text": "About Us"
+        },
+        {
+          "href": "https://profile.tesla.com",
+          "tag": "A",
+          "text": "Profile"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "US"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "Close Modal"
+        },
+        {
+          "href": "/about",
+          "tag": "A",
+          "text": "Tesla © 2026"
+        },
+        {
+          "href": "/about/legal",
+          "tag": "A",
+          "text": "Privacy & Legal"
+        },
+        {
+          "href": "https://inside.tesla.com",
+          "tag": "A",
+          "text": "Tesla Connect"
+        },
+        {
+          "href": "https://www.tesla.com/legal/cookies",
+          "tag": "A",
+          "text": "Cookie Settings"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "Accept"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "Reject"
+        }
+      ],
+      "title": "Build your Career at Tesla",
+      "url": "https://www.tesla.com/careers/search/job/239333?utm_source=vansh"
+    }
+  },
+  {
+    "company": "Citadel Securities",
+    "role": "Systematic Options Trader",
+    "applicationUrl": "https://www.citadelsecurities.com/careers/details/systematic-options-trader/?utm_source=vansh",
+    "browserUrl": "https://www.citadelsecurities.com/careers/details/systematic-options-trader/?utm_source=vansh",
+    "browserTitle": "Systematic Options Trader - Citadel Securities",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 href=\"#section-1\">Skip to Content</a> <a node_id=2 aria-label=\"Citadel Securities\" href=\"/\" /> <li node_id=3 role=\"menuitem\">Who We Are Who We Are Learn More Our Culture Leadership Team Civic Leadership Office Locations ×</li> <a node_id=4 href=\"/who-we-are/\">Who We Are</a> <li node_id=5 role=\"menuitem\">What We Do What We Do Learn More Equities Designated Market Maker Options Fixed Income &amp; FX What is a Market Maker? Corporate Solutions ×</li> <a node_id=6 href=\"/what-we-do/\">What We Do</a> <li node_id=7 role=\"menuitem\">News &amp; Insights News &amp; Insights Learn More In the",
+    "focused": {
+      "body": "Skip to Content Who We Are What We Do News & Insights Careers Systematic Options Trader Miami Job Description Role Overview: As a Systematic Options Trader, you will join our global team of experts responsible for the innovation, advancement, and day-to-day management of our quantitative systematic trading strategies. You will balance your time between operational, research, and engineering responsibilities. Operational responsibilities include real-time risk management, responding to changing market conditions and risk flows, pricing refinements, and the monitoring of strategy performance. On the research side, you will define the KPIs to be monitored, instrument packet-by-packet inspection of strategy behavior, create new evidence-based parameterization of existing algos as well as creating entirely new solutions. We’re looking for extraordinary traders who are committed to our core values: winning, acting with integrity, continuously learning, and cultivating a meritocracy. Location: Miami, FL. Responsibilities: • Build a deep understanding of the systematic marking making business, partnering with low-latency developers, alpha researchers, site reliability engineers, pricing researchers, and infrastructure developers • Identify new ways of instrumenting and measuring existing systematic behaviors to drive participation and profitability. Constantly seek out new ways to monitor our own behavior as well as that of competitors • Guide the evolution of the platform and its component strategies • React to outsized market flows and regime shifts in real time by adjusting a combination of pricing, risk tolerance and strategy parameters • Identify any under-participation in opportunity and formulate a plan to capture it • Operational excellence in all aspects • Own the defi",
+      "controls": [
+        {
+          "href": "#section-1",
+          "tag": "A",
+          "text": "Skip to Content"
+        },
+        {
+          "href": "/",
+          "tag": "A",
+          "text": ""
+        },
+        {
+          "href": "/who-we-are/",
+          "tag": "A",
+          "text": "Who We Are"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/who-we-are/",
+          "tag": "A",
+          "text": "Learn More"
+        },
+        {
+          "href": "/who-we-are/our-culture/",
+          "tag": "A",
+          "text": "Our Culture"
+        },
+        {
+          "href": "/who-we-are/leadership/",
+          "tag": "A",
+          "text": "Leadership Team"
+        },
+        {
+          "href": "/who-we-are/civic-leadership/",
+          "tag": "A",
+          "text": "Civic Leadership"
+        },
+        {
+          "href": "/who-we-are/office-locations/",
+          "tag": "A",
+          "text": "Office Locations"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "×"
+        },
+        {
+          "href": "/what-we-do/",
+          "tag": "A",
+          "text": "What We Do"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/what-we-do/",
+          "tag": "A",
+          "text": "Learn More"
+        },
+        {
+          "href": "/what-we-do/equities/",
+          "tag": "A",
+          "text": "Equities"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/what-we-do/equities/designated-market-maker-dmm/",
+          "tag": "A",
+          "text": "Designated Market Maker"
+        },
+        {
+          "href": "/what-we-do/options",
+          "tag": "A",
+          "text": "Options"
+        },
+        {
+          "href": "/what-we-do/fixed-income-and-fx",
+          "tag": "A",
+          "text": "Fixed Income & FX"
+        },
+        {
+          "href": "/what-we-do/what-is-a-market-maker/",
+          "tag": "A",
+          "text": "What is a Market Maker?"
+        },
+        {
+          "href": "/valuation-metrics/",
+          "tag": "A",
+          "text": "Corporate Solutions"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "×"
+        },
+        {
+          "href": "/news-and-insights",
+          "tag": "A",
+          "text": "News & Insights"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/news-and-insights",
+          "tag": "A",
+          "text": "Learn More"
+        },
+        {
+          "href": "/news-and-insights/in-the-media/",
+          "tag": "A",
+          "text": "In the Media"
+        },
+        {
+          "href": "/news-and-insights/category/market-insights/",
+          "tag": "A",
+          "text": "Market Insights"
+        },
+        {
+          "href": "/news-and-insights/policy-positions/",
+          "tag": "A",
+          "text": "Policy Positions"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "×"
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Careers"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Learn More"
+        },
+        {
+          "href": "/careers/markets-and-trading",
+          "tag": "A",
+          "text": "Markets & Trading"
+        },
+        {
+          "href": "/careers/quantitative-research/",
+          "tag": "A",
+          "text": "Quantitative Research"
+        },
+        {
+          "href": "/careers/engineering/",
+          "tag": "A",
+          "text": "Engineering"
+        },
+        {
+          "href": "/careers/internships",
+          "tag": "A",
+          "text": "Internships"
+        },
+        {
+          "href": "/careers/programs-and-events",
+          "tag": "A",
+          "text": "Programs & Events"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/careers/programs-and-events/conference-travel-grant/",
+          "tag": "A",
+          "text": "Conference Travel Grant"
+        },
+        {
+          "href": "/careers/programs-and-events/datathons",
+          "tag": "A",
+          "text": "Datathons"
+        },
+        {
+          "href": "/careers/programs-and-events/discover-citadel-securities/",
+          "tag": "A",
+          "text": "Discover Citadel Securities"
+        },
+        {
+          "href": "/careers/programs-and-events/the-citadel-securities-quant-invitational/",
+          "tag": "A",
+          "text": "Citadel Securities Quant Invitational"
+        },
+        {
+          "href": "/careers/programs-and-events/ignite-womens-trading-program/",
+          "tag": "A",
+          "text": "Ignite Women's Trading Program"
+        },
+        {
+          "href": "/careers/programs-and-events/phd-summit/",
+          "tag": "A",
+          "text": "PhD Summit"
+        },
+        {
+          "href": "/careers/programs-and-events/terminal/",
+          "tag": "A",
+          "text": "Terminal"
+        },
+        {
+          "href": "/careers/programs-and-events/the-trading-invitational/",
+          "tag": "A",
+          "text": "Trading Invitational"
+        },
+        {
+          "href": "/careers/career-perspectives/",
+          "tag": "A",
+          "text": "Career Perspectives"
+        },
+        {
+          "href": "/careers/open-opportunities/",
+          "tag": "A",
+          "text": "Open Opportunities"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/careers/open-opportunities/positions-for-professionals/",
+          "tag": "A",
+          "text": "Positions for Professionals"
+        },
+        {
+          "href": "/careers/open-opportunities?experience-filter=internships&selected-job-sections=323,325,324,326&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+          "tag": "A",
+          "text": "Internships"
+        },
+        {
+          "href": "/careers/open-opportunities?experience-filter=new-graduates&selected-job-sections=323,325,324,326&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+          "tag": "A",
+          "text": "Full Time"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": "×"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/who-we-are/",
+          "tag": "A",
+          "text": "Who We Are"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/who-we-are/",
+          "tag": "A",
+          "text": "Overview"
+        },
+        {
+          "href": "/who-we-are/our-culture/",
+          "tag": "A",
+          "text": "Our Culture"
+        },
+        {
+          "href": "/who-we-are/leadership/",
+          "tag": "A",
+          "text": "Leadership Team"
+        },
+        {
+          "href": "/who-we-are/civic-leadership/",
+          "tag": "A",
+          "text": "Civic Leadership"
+        },
+        {
+          "href": "/who-we-are/office-locations/",
+          "tag": "A",
+          "text": "Office Locations"
+        },
+        {
+          "href": "/what-we-do/",
+          "tag": "A",
+          "text": "What We Do"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/what-we-do/",
+          "tag": "A",
+          "text": "Overview"
+        },
+        {
+          "href": "/what-we-do/equities/",
+          "tag": "A",
+          "text": "Equities"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/what-we-do/equities/",
+          "tag": "A",
+          "text": "Overview"
+        },
+        {
+          "href": "/what-we-do/equities/designated-market-maker-dmm/",
+          "tag": "A",
+          "text": "Designated Market Maker"
+        },
+        {
+          "href": "/what-we-do/options",
+          "tag": "A",
+          "text": "Options"
+        },
+        {
+          "href": "/what-we-do/fixed-income-and-fx",
+          "tag": "A",
+          "text": "Fixed Income & FX"
+        },
+        {
+          "href": "/what-we-do/what-is-a-market-maker/",
+          "tag": "A",
+          "text": "What is a Market Maker?"
+        },
+        {
+          "href": "/valuation-metrics/",
+          "tag": "A",
+          "text": "Corporate Solutions"
+        },
+        {
+          "href": "/news-and-insights",
+          "tag": "A",
+          "text": "News & Insights"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/news-and-insights",
+          "tag": "A",
+          "text": "Overview"
+        },
+        {
+          "href": "/news-and-insights/in-the-media/",
+          "tag": "A",
+          "text": "In the Media"
+        },
+        {
+          "href": "/news-and-insights/category/market-insights/",
+          "tag": "A",
+          "text": "Market Insights"
+        },
+        {
+          "href": "/news-and-insights/policy-positions/",
+          "tag": "A",
+          "text": "Policy Positions"
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Careers"
+        },
+        {
+          "href": "",
+          "tag": "BUTTON",
+          "text": ""
+        },
+        {
+          "href": "/careers",
+          "tag": "A",
+          "text": "Overview"
+        }
+      ],
+      "title": "Systematic Options Trader - Citadel Securities",
+      "url": "https://www.citadelsecurities.com/careers/details/systematic-options-trader/?utm_source=vansh"
+    }
+  }
+]

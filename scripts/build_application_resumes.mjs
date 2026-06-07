@@ -43,7 +43,7 @@ const baseStyle = `<!doctype html>
     <div class="contact">
       <a href="mailto:yuanbopang@berkeley.edu">yuanbopang@berkeley.edu</a> |
       408-460-7526 |
-      Berkeley, CA |
+      San Jose, CA |
       <a href="https://www.linkedin.com/in/yuanbopang/">linkedin.com/in/yuanbopang</a> |
       <a href="https://github.com/PangYuanbo">github.com/PangYuanbo</a> |
       <a href="https://yuanbopang.pro">yuanbopang.pro</a>
@@ -63,29 +63,25 @@ const education = `
       <div class="item">
         <div class="row"><div>University of California, Berkeley</div><div class="right">Berkeley, CA</div></div>
         <div class="meta"><div>B.S. Electrical Engineering and Computer Sciences (EECS)</div><div class="right">Aug 2025 - Dec 2026</div></div>
-        <ul><li>Coursework: CS 61B, CS 70, CS 170, EECS 16A, EECS 106A.</li></ul>
+        <ul><li>Coursework: CS 61B, CS 70, CS 170, CS 184, EECS 16A, EECS 106A. Stanford Summer School 2025: CS 229 Machine Learning.</li></ul>
       </div>
       <div class="item">
-        <div class="row"><div>Stanford University, Summer Session</div><div class="right">Stanford, CA</div></div>
-        <div class="meta"><div>CS 229: Machine Learning</div><div class="right">Summer 2025</div></div>
-      </div>
-      <div class="item">
-        <div class="row"><div>Community College Coursework</div><div class="right">Cupertino, CA</div></div>
-        <div class="meta"><div>Computer Science coursework at De Anza, Foothill, Evergreen, and Diablo Valley; Phi Theta Kappa; Academic Director, Quantum Club; President, Data Club</div><div class="right">Sep 2023 - Jun 2025</div></div>
+        <div class="row"><div>De Anza Community College</div><div class="right">Cupertino, CA</div></div>
+        <div class="meta"><div>Computer Science transfer coursework; Phi Theta Kappa; Academic Director, Quantum Club; President, Data Club</div><div class="right">Sep 2023 - Jun 2025</div></div>
       </div>
     </section>`;
 
 const awards = `
     <section class="section">
       <div class="section-title">Awards</div>
-      <div>Modal Sponsor Prize, HackMIT 2025; Smartest AI Agent Award, HackMIT 2024; Best Use of .Tech Domain, HackDavis 2024; Winner, Hack for Impact 2024; First Prize, Jiangsu Province Chinese National Physics Olympiad 2022.</div>
+      <div>Modal Sponsor Prize, HackMIT 2025; Smartest AI Agent Award, HackMIT 2024; Best Use of .Tech Domain, HackDavis 2024; Winner, Hack for Impact 2024.</div>
     </section>`;
 
 const publication = `
     <section class="section">
       <div class="section-title">Publications</div>
       <div class="item">
-        <div class="row"><div>Agent's Last Exam (ALE) - NeurIPS 2026 Evaluations and Datasets Track submission</div><div class="right">May 2026</div></div>
+        <div class="row"><div>Agent's Last Exam (ALE) - arXiv:2606.05405v1</div><div class="right">Jun 2026</div></div>
         <ul><li>Co-first author. Benchmark of 1,000+ real-world agent tasks across 55 sub-fields and 13 industry clusters, led by 300+ industry experts and Prof. Dawn Song, UC Berkeley.</li></ul>
       </div>
     </section>`;
@@ -115,7 +111,7 @@ const blocks = {
     "AI agent evaluation, benchmark infrastructure, agent harnesses",
     "Jan 2026 - Present",
     [
-      "Co-first author on ALE, a NeurIPS 2026 benchmark submission led by Prof. Dawn Song for evaluating frontier AI agents on long-horizon professional workflows.",
+      "Co-first author on ALE, a arXiv-published benchmark led by Prof. Dawn Song for evaluating frontier AI agents on long-horizon professional workflows.",
       "Primary builder for converting expert-submitted real-world tasks into executable benchmark instances across 55 sub-fields and 13 industry clusters.",
       "Built evaluation infrastructure for VM-based GUI/CLI workflows, reproducible harness runs, and deliverable-based scoring."
     ]
@@ -128,7 +124,7 @@ const blocks = {
     [
       "Built infrastructure for reproducible agent benchmark runs across VM-based GUI/CLI workflows, task setup, artifact capture, and deliverable-based scoring.",
       "Converted expert-submitted tasks into executable benchmark instances spanning 55 sub-fields and 13 industry clusters.",
-      "Co-first author on ALE, a NeurIPS 2026 benchmark submission for evaluating frontier AI agents on long-horizon professional workflows."
+      "Co-first author on ALE, a arXiv-published benchmark for evaluating frontier AI agents on long-horizon professional workflows."
     ]
   ),
   starbotAgent: item(
@@ -181,7 +177,7 @@ const blocks = {
     "Sep 2025 - Dec 2025",
     [
       "Shipped production AI architectural rendering platform as sole engineer, implementing React/TypeScript frontend, FastAPI backend, Firebase auth, and Vercel CI/CD.",
-      "Integrated Gemini image reasoning and RunwayML text-to-video workflows with drag-and-drop uploads, real-time previews, and credit-based subscriptions."
+      "Integrated image reasoning and RunwayML text-to-video workflows with drag-and-drop uploads, real-time previews, and credit-based subscriptions."
     ]
   ),
   geopogoFull: item(
@@ -190,7 +186,7 @@ const blocks = {
     "AI rendering platform, full-stack production engineering",
     "Sep 2025 - Dec 2025",
     [
-      "Shipped production AI rendering platform as sole engineer, implementing React/TypeScript frontend, FastAPI backend, Firebase auth, Vercel CI/CD, Gemini API, and RunwayML pipelines."
+      "Shipped production AI rendering platform as sole engineer, implementing React/TypeScript frontend, FastAPI backend, Firebase auth, Vercel CI/CD, and RunwayML pipelines."
     ]
   ),
   fetch: item(
@@ -239,34 +235,34 @@ ${item("Stud.ai", "", "HackMIT 2024 - Smartest AI Agent Award", "Sep 2024", ["Bu
 };
 
 const skills = {
-  agent: `
-    <section class="section"><div class="section-title">Skills</div><div class="skills">
-      <span>Languages:</span> Python, TypeScript/JavaScript, C++, Java, Rust |
-      <span>AI/Agents:</span> agent harnesses, GCUA evaluation, benchmark design, LLaVA, Gemini API, PyTorch, TensorFlow |
-      <span>Infra/Product:</span> FastAPI, React, Node.js, Docker, Linux, Git, REST APIs, CI/CD, Firebase, Vercel, Modal |
-      <span>Robotics/Vision:</span> 3D perception, UAV detection, optical flow, OpenCV
-    </div></section>`,
-  robotics: `
-    <section class="section"><div class="section-title">Skills</div><div class="skills">
-      <span>Languages:</span> Python, C++, TypeScript/JavaScript, Java, Rust |
-      <span>Robotics/Vision:</span> 3D perception, SLAM, UAV detection, optical flow, camera-motion compensation, OpenCV |
-      <span>AI/ML:</span> agent harnesses, LLaVA, PyTorch, TensorFlow, Gemini API |
-      <span>Infra:</span> FastAPI, React, Docker, Linux, Git, REST APIs, CI/CD, Firebase, Vercel, Modal
-    </div></section>`,
-  infra: `
-    <section class="section"><div class="section-title">Skills</div><div class="skills">
-      <span>Languages:</span> Python, TypeScript/JavaScript, C++, Java, Rust |
-      <span>Backend/Infra:</span> FastAPI, React, Node.js, Docker, Linux, Git, REST APIs, SQL, Firebase, Vercel, Modal, CI/CD |
-      <span>AI Systems:</span> agent harnesses, benchmark infrastructure, Gemini API, LLaVA, PyTorch, TensorFlow |
-      <span>Vision:</span> OpenCV, optical flow, 3D perception
-    </div></section>`,
-  simulation: `
-    <section class="section"><div class="section-title">Skills</div><div class="skills">
-      <span>Languages:</span> Python, C++, TypeScript/JavaScript, Java, Rust |
-      <span>Systems/Simulation:</span> distributed workflows, Linux, Git, REST APIs, performance-minded tooling, visualization, Docker, Modal |
-      <span>Robotics/Vision:</span> 3D perception, SLAM, UAV detection, optical flow, OpenCV |
-      <span>AI:</span> agent harnesses, PyTorch, TensorFlow, LLaVA, Gemini API
-    </div></section>`
+	  agent: `
+	    <section class="section"><div class="section-title">Skills</div><div class="skills">
+	      <span>Languages:</span> Python, TypeScript/JavaScript, C++, Java |
+	      <span>AI/Agents:</span> agent harnesses, GCUA evaluation, benchmark design, Claude Code, Codex, Cursor, Grok, Droid, LLaVA, PyTorch, TensorFlow, CUDA |
+	      <span>Infra/Product:</span> FastAPI, React, Next.js, Node.js/Hono, GraphQL, WebSockets, Redis, Docker, Linux, AWS, Cloudflare, Railway, CI/CD |
+	      <span>Robotics/Vision:</span> UAV detection, optical flow, ROS2, 3D perception, OpenCV
+	    </div></section>`,
+	  robotics: `
+	    <section class="section"><div class="section-title">Skills</div><div class="skills">
+	      <span>Languages:</span> Python, C++, TypeScript/JavaScript, Java |
+	      <span>Robotics/Vision:</span> UAV detection, optical flow, ROS2, 3D perception, SLAM, camera-motion compensation, OpenCV |
+	      <span>AI/ML:</span> agent harnesses, Codex, Cursor, LLaVA, PyTorch, TensorFlow, CUDA |
+	      <span>Infra:</span> FastAPI, React, Docker, Linux, Git, REST APIs, WebSockets, Redis, CI/CD, AWS, Cloudflare, Railway, Modal
+	    </div></section>`,
+	  infra: `
+	    <section class="section"><div class="section-title">Skills</div><div class="skills">
+	      <span>Languages:</span> Python, TypeScript/JavaScript, C++, Java |
+	      <span>Backend/Infra:</span> FastAPI, React, Node.js/Hono, Docker, Linux, Git, REST APIs, GraphQL, WebSockets, SQL, PostgreSQL/Neon, Redis, AWS, Cloudflare, Railway, Modal, CI/CD |
+	      <span>AI Systems:</span> agent harnesses, benchmark infrastructure, Claude Code, Codex, Cursor, LLaVA, PyTorch, TensorFlow, CUDA |
+	      <span>Vision:</span> OpenCV, optical flow, 3D perception
+	    </div></section>`,
+	  simulation: `
+	    <section class="section"><div class="section-title">Skills</div><div class="skills">
+	      <span>Languages:</span> Python, C++, TypeScript/JavaScript, Java |
+	      <span>Systems/Simulation:</span> distributed workflows, Linux, Git, REST APIs, WebSockets, Redis, performance-minded tooling, visualization, Docker, AWS, Cloudflare, Railway, Modal |
+	      <span>Robotics/Vision:</span> UAV detection, optical flow, ROS2, 3D perception, SLAM, OpenCV |
+	      <span>AI:</span> agent harnesses, Codex, Cursor, PyTorch, TensorFlow, CUDA, LLaVA
+	    </div></section>`
 };
 
 const categories = {
@@ -341,10 +337,11 @@ for (const [category, spec] of Object.entries(categories)) {
   await writeFile(htmlPath, spec.html, "utf8");
   const result = spawnSync(chrome, [
     "--headless=new",
-    "--disable-gpu",
-    "--no-first-run",
-    "--no-default-browser-check",
-    `--print-to-pdf=${pdfPath}`,
+	    "--disable-gpu",
+	    "--no-first-run",
+	    "--no-default-browser-check",
+	    "--no-pdf-header-footer",
+	    `--print-to-pdf=${pdfPath}`,
     pathToFileURL(htmlPath).href
   ], { encoding: "utf8" });
   if (result.status !== 0) {

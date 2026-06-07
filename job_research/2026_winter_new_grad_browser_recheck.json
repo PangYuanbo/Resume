@@ -1,0 +1,172 @@
+[
+  {
+    "company": "Pinterest",
+    "role": "New Grad 2026: Software Engineer",
+    "applicationUrl": "https://www.pinterestcareers.com/job-form?gh_jid=7211012&utm_source=vansh&ref=vansh",
+    "browserUrl": "https://www.pinterestcareers.com/job-form?gh_jid=7211012&utm_source=vansh&ref=vansh",
+    "browserTitle": "Page Not Found | Pinterest Careers",
+    "browserVerdict": "confirmed_closed_or_dead_browser",
+    "browserReason": "visible page says job closed/not found",
+    "visibleSample": "<a node_id=1 href=\"/\">Careers</a> <a node_id=2 href=\"/jobs/\">Jobs</a> <a node_id=3 href=\"/locations/\" role=\"button\">Locations</a> <a node_id=4 href=\"/departments/\" role=\"button\">Departments</a> <a node_id=5 href=\"/early-career/\" role=\"button\">Early Career</a> <a node_id=6 href=\"/inside-pinterest/\" role=\"button\">Inside Pinterest</a> <a node_id=7 href=\"/candidate-hub/\" role=\"button\">Candidate Hub</a> <a node_id=8 href=\"/jobs/saved-jobs/\">Saved Jobs</a> <a node_id=9 href=\"/join/\">Join Talent Community</a> <input node_id=10 name=\"search\" placeholder=\"Search job title, skill, or keyword\" type=\"sear"
+  },
+  {
+    "company": "Citadel Securities",
+    "role": "Software Engineer – University Graduate - US",
+    "applicationUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&ref=Simplify",
+    "browserUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&ref=Simplify",
+    "browserTitle": "Just a moment...",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 href=\"https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=l\">Cloudflare</a> <a node_id=2 href=\"https://www.cloudflare.com/privacypolicy/\">Privacy</a>"
+  },
+  {
+    "company": "Meta",
+    "role": "New Grad 2026: Product Security Engineer",
+    "applicationUrl": "https://www.metacareers.com/jobs/609052015548260?utm_source=vansh",
+    "browserUrl": "https://www.metacareers.com/jobs/position-not-available/",
+    "browserTitle": "Meta Careers",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Meta home\" href=\"/\" role=\"link\" /> <a node_id=2 href=\"/jobsearch\" role=\"link\">Jobs</a> <a node_id=3 href=\"#\" role=\"link\">Teams</a> <a node_id=4 href=\"#\" role=\"link\">Career Programs</a> <a node_id=5 href=\"#\" role=\"link\">Working at Meta</a> <a node_id=6 href=\"/blog\" role=\"link\">Blog</a> <a node_id=7 href=\"/podcasts\" role=\"link\">Podcasts</a> <div node_id=8 aria-label=\"Open login page\" role=\"button\" /> <a node_id=9 href=\"/jobsearch\">View jobs</a> <input node_id=10 aria-label=\"Search by technology, team, location or ref. code\" placeholder=\"Search by technology, team, locati"
+  },
+  {
+    "company": "Bits to Atoms",
+    "role": "Software Engineer 🇺🇸",
+    "applicationUrl": "https://jobs.bitstoatoms.com/bits-to-atoms/953ef025-ec88-450d-8f8f-2cb38cc8e839?utm_source=vansh",
+    "browserUrl": "https://www.metacareers.com/jobs/position-not-available/",
+    "browserTitle": "Meta Careers",
+    "browserVerdict": "browser_error_manual",
+    "browserReason": "Browser Use cannot open https://jobs.bitstoatoms.com/bits-to-atoms/953ef025-ec88-450d-8f8f-2cb38cc8e839 in tab 1. Browser reported: net::ERR_BLOCKED_BY_CLIENT",
+    "visibleSample": ""
+  },
+  {
+    "company": "Citadel Securities",
+    "role": "Software Engineer",
+    "applicationUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=vansh",
+    "browserUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=vansh",
+    "browserTitle": "Page not found - Citadel Securities",
+    "browserVerdict": "confirmed_closed_or_dead_browser",
+    "browserReason": "visible page says job closed/not found",
+    "visibleSample": "<a node_id=1 href=\"#section-1\">Skip to Content</a> <a node_id=2 aria-label=\"Citadel Securities\" href=\"/\" /> <li node_id=3 role=\"menuitem\">Who We Are Who We Are Learn More Our Culture Leadership Team Civic Leadership Office Locations ×</li> <a node_id=4 href=\"/who-we-are/\">Who We Are</a> <li node_id=5 role=\"menuitem\">What We Do What We Do Learn More Equities Designated Market Maker Options Fixed Income &amp; FX What is a Market Maker? Corporate Solutions ×</li> <a node_id=6 href=\"/what-we-do/\">What We Do</a> <li node_id=7 role=\"menuitem\">News &amp; Insights News &amp; Insights Learn More In the"
+  },
+  {
+    "company": "Meta",
+    "role": "Data Engineer, Analytics",
+    "applicationUrl": "https://www.metacareers.com/jobs/2578176955882259?utm_source=vansh",
+    "browserUrl": "https://www.metacareers.com/jobs/position-not-available/",
+    "browserTitle": "Meta Careers",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Meta home\" href=\"/\" role=\"link\" /> <a node_id=2 href=\"/jobsearch\" role=\"link\">Jobs</a> <a node_id=3 href=\"#\" role=\"link\">Teams</a> <a node_id=4 href=\"#\" role=\"link\">Career Programs</a> <a node_id=5 href=\"#\" role=\"link\">Working at Meta</a> <a node_id=6 href=\"/blog\" role=\"link\">Blog</a> <a node_id=7 href=\"/podcasts\" role=\"link\">Podcasts</a> <div node_id=8 aria-label=\"Open login page\" role=\"button\" /> <a node_id=9 href=\"/jobsearch\">View jobs</a> <input node_id=10 aria-label=\"Search by technology, team, location or ref. code\" placeholder=\"Search by technology, team, locati"
+  },
+  {
+    "company": "Meta",
+    "role": "Software Engineer",
+    "applicationUrl": "https://www.metacareers.com/jobs/1947521902323717?utm_source=vansh",
+    "browserUrl": "https://www.metacareers.com/jobs/position-not-available/",
+    "browserTitle": "Meta Careers",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Meta home\" href=\"/\" role=\"link\" /> <a node_id=2 href=\"/jobsearch\" role=\"link\">Jobs</a> <a node_id=3 href=\"#\" role=\"link\">Teams</a> <a node_id=4 href=\"#\" role=\"link\">Career Programs</a> <a node_id=5 href=\"#\" role=\"link\">Working at Meta</a> <a node_id=6 href=\"/blog\" role=\"link\">Blog</a> <a node_id=7 href=\"/podcasts\" role=\"link\">Podcasts</a> <div node_id=8 aria-label=\"Open login page\" role=\"button\" /> <a node_id=9 href=\"/jobsearch\">View jobs</a> <input node_id=10 aria-label=\"Search by technology, team, location or ref. code\" placeholder=\"Search by technology, team, locati"
+  },
+  {
+    "company": "ServiceNow",
+    "role": "Associate Systems Engineer",
+    "applicationUrl": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&utm_source=vansh&ref=vansh",
+    "browserUrl": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&utm_source=vansh&ref=vansh",
+    "browserTitle": "Page Not Found | ServiceNow Careers",
+    "browserVerdict": "confirmed_closed_or_dead_browser",
+    "browserReason": "visible page says job closed/not found",
+    "visibleSample": "<a node_id=1 href=\"https://www.servicenow.com/\" /> <li node_id=2 role=\"button\">Products</li> <li node_id=3 role=\"button\">Industries</li> <li node_id=4 role=\"button\">Learning</li> <li node_id=5 role=\"button\">Support</li> <li node_id=6 role=\"button\">Partners</li> <li node_id=7 role=\"button\">Company</li> <li node_id=8 role=\"button\">Knowledge</li> <a node_id=9 href=\"https://www.servicenow.com/contact-us.html\">Get Started</a> <a node_id=10 href=\"/\">Careers</a> <a node_id=11 href=\"/\">Home</a> <a node_id=12 href=\"/jobs/\">Jobs</a> <a node_id=13 href=\"/life-at-servicenow/\">Life at ServiceNow</a> <a nod"
+  },
+  {
+    "company": "Tesla",
+    "role": "Frontend Engineer, GenAI Model Evaluation",
+    "applicationUrl": "https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=vansh",
+    "browserUrl": "https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=vansh",
+    "browserTitle": "tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=vansh",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 href=\"https://www.tesla.com/?redirect=no\">homepage</a> <a node_id=2 href=\"/support/?redirect=no\">Support</a> <a node_id=3 href=\"/about\">Tesla © 2026</a> <a node_id=4 href=\"/about/legal\" title=\"Privacy &amp; Legal\">Privacy &amp; Legal</a> <a node_id=5 href=\"/contact\" title=\"Contact\">Contact</a> <a node_id=6 href=\"/careers\" title=\"Careers\">Careers</a> <a node_id=7 href=\"/updates\" title=\"Get Newsletter\">Get Newsletter</a> <a node_id=8 href=\"/findus/list\" title=\"Locations\">Locations</a>"
+  },
+  {
+    "company": "Starkey Hearing",
+    "role": "Software Tester I",
+    "applicationUrl": "https://jobright.ai/jobs/info/6a05e72aa88ea73abf7f4cf8?utm_campaign=Software%20Engineering&utm_source=1103",
+    "browserUrl": "https://jobright.ai/jobs/info/6a05e72aa88ea73abf7f4cf8?utm_campaign=Software%20Engineering&utm_source=1103",
+    "browserTitle": "Software Tester I @ Starkey Hearing | Jobright.ai",
+    "browserVerdict": "recovered_can_apply_browser",
+    "browserReason": "browser shows live job/apply or job-description signal",
+    "visibleSample": "<a node_id=1 href=\"/\" /> <button node_id=2>JOIN NOW</button> <a node_id=3 href=\"#overview\" title=\"Overview\">Overview</a> <a node_id=4 href=\"#company\" title=\"Company\">Company</a> <button node_id=5 type=\"button\">APPLY NOW</button> <button node_id=6 type=\"button\">Optimize my Resume</button> <button node_id=7 type=\"button\">Draft Message to Connect</button>"
+  },
+  {
+    "company": "Tesla",
+    "role": "In Vehicle Test Engineer, Steering, Vehicle Software",
+    "applicationUrl": "https://www.tesla.com/careers/search/job/255247?utm_source=vansh",
+    "browserUrl": "https://www.tesla.com/careers/search/job/255247?utm_source=vansh",
+    "browserTitle": "In Vehicle Test Engineer, Steering, Vehicle Software",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Tesla Logo\" href=\"/\">Tesla homepage</a> <a node_id=2 href=\"/careers\">Careers</a> <a node_id=3 href=\"#main-content\">Skip to main content</a> <a node_id=4 href=\"/careers/search\" title=\"Explore Jobs\">Explore Jobs</a> <a node_id=5 href=\"/manufacturing\" title=\"Manufacturing\">Manufacturing</a> <a node_id=6 href=\"/ai\" title=\"AI\">AI</a> <a node_id=7 href=\"https://terafab.ai/\" title=\"Terafab\">Terafab</a> <a node_id=8 href=\"/careers/vehicle-software\" title=\"Vehicle Software\">Vehicle Software</a> <a node_id=9 href=\"/careers/internships\" title=\"Internships\">Internships</a> <a node"
+  },
+  {
+    "company": "Tesla",
+    "role": "Software Engineer, Manufacturing Test",
+    "applicationUrl": "https://www.tesla.com/careers/search/job/242064?utm_source=vansh",
+    "browserUrl": "https://www.tesla.com/careers/search/job/242064?utm_source=vansh",
+    "browserTitle": "Build your Career at Tesla",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Tesla Logo\" href=\"/\">Tesla homepage</a> <a node_id=2 href=\"/careers\">Careers</a> <a node_id=3 href=\"#main-content\">Skip to main content</a> <a node_id=4 href=\"/careers/search\" title=\"Explore Jobs\">Explore Jobs</a> <a node_id=5 href=\"/manufacturing\" title=\"Manufacturing\">Manufacturing</a> <a node_id=6 href=\"/ai\" title=\"AI\">AI</a> <a node_id=7 href=\"https://terafab.ai/\" title=\"Terafab\">Terafab</a> <a node_id=8 href=\"/careers/vehicle-software\" title=\"Vehicle Software\">Vehicle Software</a> <a node_id=9 href=\"/careers/internships\" title=\"Internships\">Internships</a> <a node"
+  },
+  {
+    "company": "Citadel Securities",
+    "role": "New Grad: Quantitative Research Analyst",
+    "applicationUrl": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/?utm_source=vansh",
+    "browserUrl": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/?utm_source=vansh",
+    "browserTitle": "Quantitative Research Analyst - University Graduate (US) - Citadel Securities",
+    "browserVerdict": "recovered_can_apply_browser",
+    "browserReason": "browser shows live job/apply or job-description signal",
+    "visibleSample": "<a node_id=1 href=\"#section-1\">Skip to Content</a> <a node_id=2 aria-label=\"Citadel Securities\" href=\"/\" /> <li node_id=3 role=\"menuitem\">Who We Are Who We Are Learn More Our Culture Leadership Team Civic Leadership Office Locations ×</li> <a node_id=4 href=\"/who-we-are/\">Who We Are</a> <li node_id=5 role=\"menuitem\">What We Do What We Do Learn More Equities Designated Market Maker Options Fixed Income &amp; FX What is a Market Maker? Corporate Solutions ×</li> <a node_id=6 href=\"/what-we-do/\">What We Do</a> <li node_id=7 role=\"menuitem\">News &amp; Insights News &amp; Insights Learn More In the"
+  },
+  {
+    "company": "Citadel Securities",
+    "role": "New Grad: Quantitative Trader",
+    "applicationUrl": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/?utm_source=vansh",
+    "browserUrl": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/?utm_source=vansh",
+    "browserTitle": "Page not found - Citadel Securities",
+    "browserVerdict": "confirmed_closed_or_dead_browser",
+    "browserReason": "visible page says job closed/not found",
+    "visibleSample": "<a node_id=1 href=\"#section-1\">Skip to Content</a> <a node_id=2 aria-label=\"Citadel Securities\" href=\"/\" /> <li node_id=3 role=\"menuitem\">Who We Are Who We Are Learn More Our Culture Leadership Team Civic Leadership Office Locations ×</li> <a node_id=4 href=\"/who-we-are/\">Who We Are</a> <li node_id=5 role=\"menuitem\">What We Do What We Do Learn More Equities Designated Market Maker Options Fixed Income &amp; FX What is a Market Maker? Corporate Solutions ×</li> <a node_id=6 href=\"/what-we-do/\">What We Do</a> <li node_id=7 role=\"menuitem\">News &amp; Insights News &amp; Insights Learn More In the"
+  },
+  {
+    "company": "Perplexity",
+    "role": "Associate Product Manager Program",
+    "applicationUrl": "https://www.perplexity.ai/hub/associate-product-manager?utm_source=vansh",
+    "browserUrl": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/?utm_source=vansh",
+    "browserTitle": "Page not found - Citadel Securities",
+    "browserVerdict": "browser_error_manual",
+    "browserReason": "Browser Use rejected this action due to browser security policy. Reason: Browser Use is not permitted on https://www.perplexity.ai/hub/associate-product-manager. The agent must not attempt to achieve the same outcome via",
+    "visibleSample": ""
+  },
+  {
+    "company": "Tesla",
+    "role": "Technical Artist, UI Design",
+    "applicationUrl": "https://www.tesla.com/careers/search/job/239333?utm_source=vansh",
+    "browserUrl": "https://www.tesla.com/careers/search/job/239333?utm_source=vansh",
+    "browserTitle": "Build your Career at Tesla",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 aria-label=\"Tesla Logo\" href=\"/\">Tesla homepage</a> <a node_id=2 href=\"/careers\">Careers</a> <a node_id=3 href=\"#main-content\">Skip to main content</a> <a node_id=4 href=\"/careers/search\" title=\"Explore Jobs\">Explore Jobs</a> <a node_id=5 href=\"/manufacturing\" title=\"Manufacturing\">Manufacturing</a> <a node_id=6 href=\"/ai\" title=\"AI\">AI</a> <a node_id=7 href=\"https://terafab.ai/\" title=\"Terafab\">Terafab</a> <a node_id=8 href=\"/careers/vehicle-software\" title=\"Vehicle Software\">Vehicle Software</a> <a node_id=9 href=\"/careers/internships\" title=\"Internships\">Internships</a> <a node"
+  },
+  {
+    "company": "Citadel Securities",
+    "role": "Systematic Options Trader",
+    "applicationUrl": "https://www.citadelsecurities.com/careers/details/systematic-options-trader/?utm_source=vansh",
+    "browserUrl": "https://www.citadelsecurities.com/careers/details/systematic-options-trader/?utm_source=vansh",
+    "browserTitle": "Systematic Options Trader - Citadel Securities",
+    "browserVerdict": "live_unclear_browser",
+    "browserReason": "browser loaded page but job-state signal is unclear",
+    "visibleSample": "<a node_id=1 href=\"#section-1\">Skip to Content</a> <a node_id=2 aria-label=\"Citadel Securities\" href=\"/\" /> <li node_id=3 role=\"menuitem\">Who We Are Who We Are Learn More Our Culture Leadership Team Civic Leadership Office Locations ×</li> <a node_id=4 href=\"/who-we-are/\">Who We Are</a> <li node_id=5 role=\"menuitem\">What We Do What We Do Learn More Equities Designated Market Maker Options Fixed Income &amp; FX What is a Market Maker? Corporate Solutions ×</li> <a node_id=6 href=\"/what-we-do/\">What We Do</a> <li node_id=7 role=\"menuitem\">News &amp; Insights News &amp; Insights Learn More In the"
+  }
+]

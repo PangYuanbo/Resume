@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-06-06T18:48:34.647Z",
+  "allVerifiedRows": 1542,
+  "previousFinalRows": 1000,
+  "screenedOutRows": 542,
+  "recoveredRows": 171,
+  "noCapRows": 1171,
+  "confirmedNotApplyRows": 369,
+  "remainingManualRows": 2,
+  "verdicts": {
+    "confirmed_closed_or_dead": 369,
+    "live_unclear_manual_check": 57,
+    "recovered_can_apply": 114,
+    "manual_browser_error": 2
+  },
+  "browserCheckedRows": 17
+}

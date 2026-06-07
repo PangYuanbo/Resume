@@ -1,0 +1,31 @@
+# Applicant Profile
+
+- Name: Yuanbo Pang
+- Email: yuanbopang@berkeley.edu
+- Phone: 408-460-7526
+- Location: San Jose, CA
+- Home address: 1419 Sierra Creek Way, San Jose, CA 95132
+- Age: 21
+- Gender: Male
+- Race/Ethnicity: Asian
+- Veteran status: Not a veteran
+- Disability status: No disability
+- Sexual orientation: Heterosexual/Straight
+- Work authorization: F-1 student, currently authorized to work through OPT/STEM OPT
+- Future sponsorship: Does not need employer visa sponsorship; long-term permanent residency is expected through family-based green card process
+- Critical form rule: "Are you authorized to work in the country where the job is located?" -> Yes
+- Critical form rule: "Will you now or in the future require sponsorship for employment visa status?" -> No, when the question means employer-provided work visa sponsorship
+- Form explanation if requested: Currently authorized to work through F-1 OPT/STEM OPT and does not need employer visa sponsorship; long-term permanent residency is expected through family-based green card process.
+- GPA: 3.728 if required by application form; do not include GPA on resume unless the form forces GPA entry
+- Expected graduation: December 2026
+- Graduation date rule: Use December 2026 / Dec 2026 when available. If a required graduation-date field only offers earlier fixed options such as December 2025 or May 2026 and has no custom/other option, do not submit with an incorrect date; mark the application for manual recheck.
+- Education primary: University of California - Berkeley / UC Berkeley, Bachelor's Degree, Electrical Engineering and Computer Sciences (EECS), August 2025 - December 2026
+- Education discipline fallback: If EECS is not available as a discipline/major option, choose Computer Science. If the form only has free text, use "Electrical Engineering and Computer Sciences (EECS)".
+- Education coursework: UC Berkeley coursework includes CS 61B, CS 70, CS 170, CS 184, EECS 16A, and EECS 106A. Stanford Summer School 2025 coursework: CS 229 Machine Learning.
+- Education prior: De Anza Community College, September 2023 - June 2025. Add this only when the form allows another education entry and De Anza Community College is available as a school option; if the school is not available, skip the prior education entry rather than selecting an incorrect school.
+- Form education rule: Do not use Stanford University as the applicant's school. Only mention Stanford if a form specifically asks about individual coursework and there is a relevant CS 229/Summer School/Summer Session field.
+- Confirmed additional technical skills: AWS, Cloudflare, Railway, GraphQL, Redis, WebSockets, CUDA.
+- Agentic development tools used long-term: Claude Code, Codex, Cursor, Grok, Droid.
+- LinkedIn: https://www.linkedin.com/in/yuanbopang/
+- GitHub: https://github.com/PangYuanbo
+- Website: https://yuanbopang.pro

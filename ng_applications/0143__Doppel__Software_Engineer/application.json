@@ -1,0 +1,17 @@
+{
+  "queueRank": 143,
+  "status": "needs_recheck",
+  "submitted": "",
+  "company": "Doppel",
+  "role": "Software Engineer",
+  "fitTier": "medium",
+  "companyType": "Startup / venture-backed company",
+  "jobDomain": "Backend / full-stack software",
+  "domainResume": "backend",
+  "location": "San Francisco, CA New York, NY",
+  "applicationUrl": "https://www.doppel.com/jobs?ashby_jid=07905bfc-1c21-465d-a6bb-39ef71744c3d&utm_source=vansh&ref=vansh",
+  "folder": "ng_applications/0143__Doppel__Software_Engineer",
+  "resumePath": "ng_applications/0143__Doppel__Software_Engineer/Yuanbo_Pang_Resume.pdf",
+  "trackerNote": "Checked on 2026-06-07: original Doppel ashby_jid redirected to company careers page and exact generic Software Engineer role was not directly available. Careers page now lists specific SWE roles (Autopilot, Detection, Infrastructure, Platform, Simulation); should add/apply as separate specific roles.",
+  "updatedAt": "2026-06-07T17:05:47.963Z"
+}
